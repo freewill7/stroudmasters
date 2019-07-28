@@ -5,15 +5,12 @@ draft: false
 ---
 Mark and Jessica competed in the National Long Course Championships.
 
-
-
-
-| Jessica |1500m Freestyle |18.58.37 |1st |
+| Swimmer | Event | Time | Position |
 |---|---|---|---|
+| Jessica |1500m Freestyle |18.58.37 |1st |
 |  |400m Freestyle |4.52.58 |1st |
 |  |400m IM |5.47.24 |2nd |
 |  |800m Freestyle |9.58.91 |1st |
-|  | | | |
 | Mark |50m Backstroke |34.48 |6th |
 |  |100m Breaststroke |1.18.65 |4th |
 |  |400m Freestyle |5.17.52 |7th |

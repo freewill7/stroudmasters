@@ -5,8 +5,6 @@ draft: false
 ---
 Four Stroud Masters swimmers made the journey to Bracknell to compete in the annual open meet hosted by Bracknell Masters.
 
-
-
 ![Back: Richard Searle Front: Lorraine Savagar, Jessica Wooddisse, Mark Partridge](/images/2015/01/bracknellopen12.jpg)
 
  Back: Richard Searle Front: Lorraine Savagar, Jessica Wooddisse, Mark Partridge

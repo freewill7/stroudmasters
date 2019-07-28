@@ -6,13 +6,6 @@ draft: false
 ![](/images/2017/04/image1-2-1024x576.jpeg)
  Sean Kinsey, William Lee, Richard Percival, Jessica Wooddisse, Andy Tarr, Mark Partridge
 
-
-
- 
-
- 
-
-
 | Swimmer |Event |Time |Position |
 |---|---|---|---|
 | Jessica Wooddisse |100m freestyle |1:05.31 |1st |

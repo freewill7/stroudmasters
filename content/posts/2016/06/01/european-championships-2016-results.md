@@ -5,9 +5,6 @@ draft: false
 ---
 Stroud Masters results from the European Championships in London
 
-
-
-
 | Swimmer |Age Group |Event |Time |Position |
 |---|---|---|---|---|
 | Sean Kinsey |50-54 |800m Freestyle |9.43.37 |4th (of 67) |

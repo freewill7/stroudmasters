@@ -5,15 +5,13 @@ draft: false
 ---
 Results from 30th March 2014
 
-
-
 ![Mark Partridge, Nikki Gaunt, Jessica Wooddisse](/images/2015/01/millfield_march_2014.jpg)
 
  Mark Partridge, Nikki Gaunt, Jessica Wooddisse
 
-
-| Nikki Gaunt |50m Breaststroke |47.51 |2nd |
+| Swimmer | Event | Time | Position |
 |---|---|---|---|
+| Nikki Gaunt |50m Breaststroke |47.51 |2nd |
 |  |100m Individual Medley |1:37.51 |2nd |
 |  |50m Butterfly |42.88 |3rd |
 |  |100m Breaststroke |1:40.7 |3rd |

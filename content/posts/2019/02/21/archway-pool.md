@@ -9,7 +9,6 @@ We have been advised by Archway School that Archway pool will be out of action f
 
 **Update:**
 
-
 Just to let you know that the school are confident of having the pool back online by Wednesday 13th March. If these's any change I'll let you know. 
 
 Regards

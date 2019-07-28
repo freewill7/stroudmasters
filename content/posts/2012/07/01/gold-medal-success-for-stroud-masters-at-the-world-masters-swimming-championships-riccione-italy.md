@@ -5,8 +5,6 @@ draft: false
 ---
 Stroud Masters swimmers recently travelled to Riccione in Italy to compete in the 2012 World Masters Swimming Championships, an event which provides an opportunity for masters swimmers (aged 25+) from around the world to compete against each other at the highest possible level. Riccione proved to be the ideal location for this year's championships with superb hotel, restaurant and sports facilities, all supported by a warm welcome and very sunny weather.
 
-
-
 ![Sean Kinsey, Richard Searle, Lorraine Savagar, Jessica Wooddisse, Mark Patridge](/images/2015/01/worlds2012.jpg)
 
  Sean Kinsey, Richard Searle, Lorraine Savagar, Jessica Wooddisse, Mark Patridge
@@ -21,30 +19,25 @@ Lorraine Savagar swimming in her first World Championships also swam well to ach
 
 Overall a couple of great days of swimming by the Stroud team at a great venue in great weather. The results were a fantastic achievement for all, and just reward for all of the many hours of training put in at the pool and lakes over the past twelve months.
 
-GEOFF TWINNING:    Age Group 30-34
+Pool Events
+---
 
+| Swimmer | Event |Place |Time|In Age Group |
+|---|---|---|---|---|
+| Geoff Twinning | 800m Freestyle |4th |9.16.14 |Fastest GB Swimmer |
+| | 400m IM |10th |5.05.99 | |
+| | 200m IM |7th |2.21.66 | |
+| | 200m Butterfly |7th |2.19.36 | |
+| | 100m Butterfly |21st |1.02.74 |2nd Fastest GB Swimmer |
+| Scott Nelson | 50m Freestyle |178th |27.77 |2nd Fastest GB Swimmer |
+| | 100m Freestyle |114th |1.00.11 |4th |
+| | 50m Breaststroke |95th |35.59 |5th |
+| Richard Searle | 100M Backstroke |29th |1.13.67 |2nd Fastest GB Swimmer |
+| | 50m Backstroke |35th |34.00 |Fastest GB Swimmer |
 
-| EVENT |PLACE |TIME |In Age Group |
-|---|---|---|---|
-| 800m Freestyle |4th |9.16.14 |Fastest GB Swimmer |
-| 400m IM |10th |5.05.99 | |
-| 200m IM |7th |2.21.66 | |
-| 200m Butterfly |7th |2.19.36 | |
-| 100m Butterfly |21st |1.02.74 |2nd Fastest GB Swimmer |
-
-| EVENT |PLACE |TIME |In Age Group |
-|---|---|---|---|
-| 50m Freestyle |178th |27.77 |2nd Fastest GB Swimmer |
-| 100m Freestyle |114th |1.00.11 |4th |
-| 50m Breaststroke |95th |35.59 |5th |
-
-| EVENT |PLACE |TIME |In Age Group |
-|---|---|---|---|
-| 100M Backstroke |29th |1.13.67 |2nd Fastest GB Swimmer |
-| 50m Backstroke |35th |34.00 |Fastest GB Swimmer |
-
-**3K OPEN WATER Â Â **
-|  |Age Group |PLACE |TIME |In Age Group |
+Open Water
+---
+| Swimmer |Age Group |PLACE |TIME |In Age Group |
 |---|---|---|---|---|
 | Geoff Twinning |30-34 |5th |29.44.6 |Fastest GB Swimmer |
 | Jessica Wooddisse |35-39 |1st |31.36.0 | |

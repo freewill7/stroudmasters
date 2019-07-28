@@ -5,8 +5,6 @@ draft: false
 ---
 On Saturday 21st July, three members of Stroud Masters Swimming Club travelled to South Yorkshire's Rother Valley Country Park to take part in the ASA's National 3km Open Water Championships.
 
-
-
 ![Mark Partridge, Jessica Woodisse, Richard Searle](/images/2015/01/3k-210812.jpg)
 
  Mark Partridge, Jessica Woodisse, Richard Searle

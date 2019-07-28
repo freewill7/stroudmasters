@@ -5,9 +5,6 @@ draft: false
 ---
 Results from 10th January 2016
 
-
-
-
 | Swimmer |Event |Time |Position |
 |---|---|---|---|
 | Sandy Jones |100m IM |1.20.13 |1st |

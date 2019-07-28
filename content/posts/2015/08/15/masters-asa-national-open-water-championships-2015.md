@@ -9,10 +9,7 @@ Results from the Masters ASA National 3km Open Water Championships (2nd August 
 
  Richard Searle, Jessica Woodisse, Mark Partridge
 
-
-
-
-|  |Time |Age Group Position |Overall Position |
+| Swimmer |Time |Age Group Position |Overall Position |
 |---|---|---|---|
 | Jessica Wooddisse |42 minutes 17.4 seconds |1st |2nd female (of 30) |
 | Richard Searle |47 minutes 2.09 seconds |3rd |23rd male (of 51) |

@@ -9,7 +9,6 @@ For anyone who is interested in competing in the Gloucester Masters Open Meet th
 
 [https://bsbasa.org/WebEntry/MeetEntry.php?Meet=GLMWGM19](https://bsbasa.org/WebEntry/MeetEntry.php?Meet=GLMWGM19)
 
-
 If you have any queries at all please get in contact with me. The Competition Calendar on the club web-site will be updated shortly if you want any information about other events in 2019. 
 
 Regards

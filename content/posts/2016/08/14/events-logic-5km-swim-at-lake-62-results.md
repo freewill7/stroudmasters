@@ -7,10 +7,7 @@ Results from the 5km swim at Lake 62
 
 ![Sean Kinsey, Mark Partridge, Jessica Wooddisse, William Lee](/images/2016/08/13995392_10206300099733126_2798218744947770359_o-e1471200696801-300x230.jpg)
 
- Sean Kinsey, Mark Partridge, Jessica Wooddisse, William Lee
-
-
-
+Sean Kinsey, Mark Partridge, Jessica Wooddisse, William Lee
 
 | Swimmer |Splits |Total |Position |
 |---|---|---|---|

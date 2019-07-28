@@ -5,7 +5,6 @@ draft: false
 ---
 Last weekend a team of five swimmers from Stroud Masters SC travelled to South Wales to swim in the annual Welsh Capital Masters Swim Meet held at the International Pool in Cardiff.
 
-
 ![Mark Partridge, Jessica Wooddisse, Greg Clements, Kerrie Aldridge, Lorraine Savagar](/images/2015/01/welshcapitalmasters11.jpg)
 
  Mark Partridge, Jessica Wooddisse, Greg Clements, Kerrie Aldridge, Lorraine Savagar

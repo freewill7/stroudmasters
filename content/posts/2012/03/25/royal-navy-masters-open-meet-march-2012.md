@@ -5,19 +5,15 @@ draft: false
 ---
 A team of Stroud Masters traveled to Millfield School to compete in the annual Royal Navy Masters gala.
 
-
-
 ![Richard Searle, Jessica Wooddisse, Mark Partridge, Lorraine Savagar, William Lee](/images/2015/01/rnavymillfield2012.jpg)
 
  Richard Searle, Jessica Wooddisse, Mark Partridge, Lorraine Savagar, William Lee
 
 Competing in the most competitive age group William Lee selected a range of five events to contest with a well deserved highest placing of 4th. The men's 100m butterfly provided a personal best time and silver medal for Mark Partridge who won two further silver medals and a bronze. Team mate Jessica Wooddisse picked up medals of each colour and again gained a personal best time in the butterfly. The most successful swimmer of the day was Richard Searle who won 3 gold medals and set meet records in the 100m breaststroke and the 50m backstroke.
 
-
-
-
-| Richard Searle |400 F/S |4:50.46 |1st |
+| Swimmer | Event | Time | Position |
 |---|---|---|---|
+| Richard Searle |400 F/S |4:50.46 |1st |
 |  |50 F/S |28.14 |4th |
 |  |100 brst |1:19.27 |1st |
 |  |50 back |33.22 |1st |

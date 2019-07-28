@@ -5,8 +5,6 @@ draft: false
 ---
 Mark travelled to the Rother Valley Country Park just south of Sheffield to compete in the Masters National Open Water Championship.
 
-
-
 ![Mark Partridge](/images/2015/01/mastersasanationalow11.jpg)
 
  Mark Partridge

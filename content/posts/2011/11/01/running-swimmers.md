@@ -5,8 +5,6 @@ draft: false
 ---
 Apologies to several swimmers whose running exploits got sent to me, but were lost in my system. Belatedly, they deserve a wider audience!
 
-
-
 ![Lewis Saunders in Toronto](/images/2015/01/lewistoronto2011.jpg)
 
  Lewis Saunders in Toronto

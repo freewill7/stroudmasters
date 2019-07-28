@@ -5,8 +5,6 @@ draft: false
 ---
 Stroud Masters swimmers, Lewis Saunders, (50-54yrs), and Richard Searle (45-49yrs), took part in the inaugural Cotswold 113 Middle Distance Triathlon, a distance more commonly referred to as either Half Ironman or a 70.3 after the total distance entrants complete in miles.
 
-
-
 ![Lewis Saunders, Richard Searle](/images/2015/01/cotswold113.jpg)
 
  Lewis Saunders, Richard Searle
@@ -14,9 +12,9 @@ Stroud Masters swimmers, Lewis Saunders, (50-54yrs), and Richard Searle (45-49yr
 The 360 competitors started to arrive for the event at the un-earthy hour of 3.45am in readiness for the prompt 6am mass start.
 
 The event, which took place on Sunday 26th June was held in and around the Cotswold Water Park and consisted of a gruelling;
-1.2 mile (1.9km) swim)
-56 mile (90km) bike
-13.1 mile (21.1km) run
+- 1.2 mile (1.9km) swim)
+- 56 mile (90km) bike
+- 13.1 mile (21.1km) run
 
 Since its inception five years ago, Middle Distance has become the fastest growing triathlon series in the world, with the distance not only requiring competitors to master the 4th discipline of triathlon, the transition, but bringing into play a 5th element, that of nutrition. This requires athletes to maintain their carbohydrate stores whilst out on the bike course so that they are not depleted of energy when they arrive back into transition and then heading off on a ½ marathon and the awaiting finish! Failure to get their nutrition right can result in athletes hitting the wall - and ultimately not finishing the event.
 
@@ -33,17 +31,10 @@ The 13.1 mile run, difficult at the best of times, comes straight after the 56 m
 Weather
 The long-range weather forecast prior to the event had predicted the same grey skies and heavy showers that weÃd endured throughout much of June. However, although the forecast 24 hours before the event had indicated full sun and 28oC temperatures, the morning started with a heavy, almost rain like mist. The sun, thankfully for the competitors not showing itself fully until most were on their second / third lap of the run, at which point the shade offered by the canopy when running through the wooded sections was most welcome.
 
-
-| Results |Swim |T1 |Bike |T2 |Run |Finish |Overall Position (in relay teams) |Age
-
-Group (m)
-
-Position
-
-Â  |
-|---|---|---|---|---|---|---|---|---|
-| Winner |31:13.868 |00:54.822 |02:17:41.716 |00:50.892 |01:23:54.889 |04:14:36.187 | | |
-| Richard Searle |28:29.901 |03:37.913 |02:39:46.623 |01:45.481 |01:52:04.516 |05:05:44.434 |105 |9th |
-| Lewis Saunders |36:42.640 |02:39.830 |02:47:00.671 |01:06.819 |02:04:03.585 |05:31:33.545 |179 |6th |
-| Slowest |48:51.540 |05:12.922 |03:42:30.081 |03:34.187 |03:15:00.568 |07:55:09.298 | | |
+|Results|Swim|T1|Bike|T2|Run|Finish|Overall Position (in relay teams)|Age| Group (m)| Position|
+|---|---|---|---|---|---|---|---|---|---|---|
+|Winner|31:13.868|00:54.822|02:17:41.716|00:50.892|01:23:54.889|04:14:36.187||
+|Richard Searle|28:29.901|03:37.913|02:39:46.623|01:45.481|01:52:04.516|05:05:44.434|105|9th
+|Lewis Saunders|36:42.640|02:39.830|02:47:00.671|01:06.819|02:04:03.585|05:31:33.545|179|6th
+|Slowest|48:51.540|05:12.922|03:42:30.081|03:34.187|03:15:00.568|07:55:09.298||
 

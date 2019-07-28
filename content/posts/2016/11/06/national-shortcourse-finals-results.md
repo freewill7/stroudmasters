@@ -5,11 +5,6 @@ draft: false
 ---
 Stroud Masters were at the National Shortcourse Championships in Sheffield (28th-30th October)
 
-
-
- 
-
-
 | Swimmer |Event |Time |Position |
 |---|---|---|---|
 | Jessica Wooddisse |200m Freestyle |2.17.23 (PB) |2nd |

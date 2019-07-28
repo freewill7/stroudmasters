@@ -6,7 +6,7 @@ draft: false
 Lorraine, Jessica and Mark travelled to Henley on Thames to take part in a 14km swim down the Thames
 between the bridges at Henley and Marlow.
 
-The event was organised by The Henley Swim and has been run each year for the past eight years by the Club but with only a handful of Henley swimmers taking part. This was the first year it has been opened up to swimmers from other clubs. The swim itself was not a race but more of a âsocialâ swim with eighty five swimmers divided into three groups with the swimmers in each group matched by swim speed.
+The event was organised by The Henley Swim and has been run each year for the past eight years by the Club but with only a handful of Henley swimmers taking part. This was the first year it has been opened up to swimmers from other clubs. The swim itself was not a race but more of a social swim with eighty five swimmers divided into three groups with the swimmers in each group matched by swim speed.
 
 The swim started at 8.10 am under Henley Bridge in a water temperature of approximately 17 Celsius. Wetsuits were
 optional but half a dozen brave souls swam the distance in a swimming costume overcoming not just the cold water temperature but also an abundance of insect life along the way. For the record we all wore wetsuits.
@@ -20,7 +20,7 @@ The last 2km of the race proved a bit of a struggle for both Mark and Lorraine 
 
 Only two swimmers failed to complete the swim which given the temperature and distance was a really good achievement.
 
-Overall the âteamâ thought it was a great swim and experience especially when there are not many of these longer distance swims open to club swimmers. The Henley Swim also did a great job in organising and running the event on the day.
+Overall the team thought it was a great swim and experience especially when there are not many of these longer distance swims open to club swimmers. The Henley Swim also did a great job in organising and running the event on the day.
 
 ![Jessica Wooddisse, Mark Partridge, Lorraine Savagar](/images/2015/01/jessica-mark-lorraine.jpg)
 

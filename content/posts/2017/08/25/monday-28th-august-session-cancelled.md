@@ -5,12 +5,7 @@ draft: false
 ---
 Hello
 
-
 Unfortunately the morning session at Archway has had to be cancelled as we do not have lifeguard cover. Sorry for any inconvenience.
-
-
-
-
 
 Mark
 

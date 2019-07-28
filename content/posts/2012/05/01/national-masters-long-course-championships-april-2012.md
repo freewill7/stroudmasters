@@ -5,8 +5,6 @@ draft: false
 ---
 A team of eleven Stroud Masters swimmers travelled the short distance to GL1 in Gloucester to compete in the annual open meet held by Gloucester Masters SC.
 
-
-
 ![Rear: Lewis Saunders, Jo Green, Geoff Twinning, William Lee, Mark Partridge, Scott Nelson Front: Lorraine Savagar, Jessica Wooddisse, Elaine Lewis, Kerrie Aldridge](/images/2015/01/glosmasters2012.jpg)
 
  Rear: Lewis Saunders, Jo Green, Geoff Twinning, William Lee, Mark Partridge, Scott Nelson Front: Lorraine Savagar, Jessica Wooddisse, Elaine Lewis, Kerrie Aldridge
@@ -17,11 +15,9 @@ Busiest swimmer of the day was Geoff Twinning who competed in five events and to
 
 Overall this was a great performance by the team who between them took away twelve gold, nine silver and three bronze medals, as well as numerous personal best times. The meet marked the end of the short course pool competition programme until the autumn. Over the coming months the focus of the team will be swimming the longer distances of open water events with the highlight being the World Masters Swimming Championships in Italy in June.
 
-
-
-
-| Elaine Lewis |50m Butterfly |36.49 |4th |
+| Swimmer | Event | Time | Position |
 |---|---|---|---|
+| Elaine Lewis |50m Butterfly |36.49 |4th |
 |  |50m Backstroke |37.24 |3rd |
 |  |50m Freestyle |31.14 |2nd |
 | Geoff Twinning |400m Freestyle |4.21.23 |1st |

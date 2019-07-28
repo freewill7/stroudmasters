@@ -5,13 +5,11 @@ draft: false
 ---
 Mother's Day saw the annual Gloucester Masters Open Meet attended by a strong contingent of Stroud Masters swimmers.
 
-
-
 The only mother on the team, Lorraine Savagar, took home three silver medals in freestyle, butterfly and backstroke events. Following her lead Lewis Saunders gained silvers in the 400m freestyle and 100m backstroke and completed his morning with two further events. Joining him in the 400m was Greg Clements who took a bronze medal and gained personal best times in butterfly and the 100m freestyle. New recruit to the team Alex Belcher swam a series of excellent times in his three events and was rewarded with a silver and a bronze medal. Individual medley gold and silver in breaststroke went to Jon Arnold who was taking a break from triathlon competition. He selected two of the same events as William Lee who produced good swims in a tough age group. Also competing in this age group was Kerrie Aldridge who won two golds, a silver and a bronze. Mark Partridge took the first of his three gold medals in the 400m freestyle and rounded off his competition with a bronze in the backstroke sprint. Likewise Jessica Wooddisse took 3 golds and finished with a silver in the breaststroke sprint. In total the team brought home twenty two medals, a creditable performance for a small club.
 
-
-| 400m F/S |Lewis Saunders |7:28.30 |2nd |
+| Event | Swimmer | Time | Posiiton |
 |---|---|---|---|
+| 400m F/S |Lewis Saunders |7:28.30 |2nd |
 |  |Greg Clements |5:25.40 |3rd |
 |  |Mark Partridge |5:05.60 |1st |
 |  |Jessica Wooddisse |4:47.39 |1st |

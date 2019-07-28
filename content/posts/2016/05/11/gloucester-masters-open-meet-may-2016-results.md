@@ -7,10 +7,7 @@ Results from 8th May 2016...
 
 ![Jessica Wooddisse, Danny Baker, Jo Green, Mark Partridge, Andy Tarr, William Lee, Nikki Gaunt](/images/2016/05/gloucester_masters_2016-1024x800.jpg)
 
- Jessica Wooddisse, Danny Baker, Jo Green, Mark Partridge, Andy Tarr, William Lee, Nikki Gaunt
-
-
-
+Jessica Wooddisse, Danny Baker, Jo Green, Mark Partridge, Andy Tarr, William Lee, Nikki Gaunt
 
 | Name |Event |Time |Position |
 |---|---|---|---|

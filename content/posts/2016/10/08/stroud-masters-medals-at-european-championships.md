@@ -9,5 +9,5 @@ The race was sum over a distance of 5km in a calm, clear and warm sea.
 
 ![Sean Kinsey and Jessica Woodisse](/images/2016/10/2016_european_medals-300x169.jpg)
 
- Sean Kinsey and Jessica Wooddisse
+Sean Kinsey and Jessica Wooddisse
 

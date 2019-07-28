@@ -5,18 +5,13 @@ draft: false
 ---
 Results from the European Masters Championships
 
-
-
 ![Sean Kinsey, Jessica Wooddisse, Mark Partridge](/images/2015/01/european-masters-2013.jpg)
 
  Sean Kinsey, Jessica Wooddisse, Mark Partridge
 
-**Results:**
-
-
-
-| Jessica |800m freestyle |9.55.12 |2nd |PB |
+| Swimmer | Event | Time | Position | |
 |---|---|---|---|---|
+| Jessica |800m freestyle |9.55.12 |2nd |PB |
 |  |3000m open water |38.34.25 |3rd | |
 | Sean |3000m open water |36.41.55 |9th | |
 | Mark |3000m open water |43.36.95 |18th | |

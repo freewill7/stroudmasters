@@ -5,10 +5,7 @@ draft: false
 ---
 Dear All,
 
-
 This is just to let you know that there will be no early morning swim at Archway on Monday 29th August.
-
-
 
 Jessica
 

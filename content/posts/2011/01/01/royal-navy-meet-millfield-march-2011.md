@@ -5,8 +5,6 @@ draft: false
 ---
 At the end of March, Jessica, Mark and Will competed at the Royal Navy Masters Open Meet at Millfield School.
 
-
-
 ![William Lee, Jessica Wooddisse, Mark Partridge](/images/2015/01/image0013.jpg)
 
  William Lee, Jessica Wooddisse, Mark Partridge

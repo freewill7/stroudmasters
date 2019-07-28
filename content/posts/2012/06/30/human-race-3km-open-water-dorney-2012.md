@@ -5,8 +5,6 @@ draft: false
 ---
 The Human Race 3km Open Water race at Dorney boating lake near Eton was the venue for the first Stroud Masters SC open water competition of the year.
 
-
-
 ![Mark Partridge, Jessica Wooddisse, Lorraine Savagar, Sean Kinsey](/images/2015/01/humanracedorney2012.jpg)
 
  Mark Partridge, Jessica Wooddisse, Lorraine Savagar, Sean Kinsey

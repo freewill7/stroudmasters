@@ -8,11 +8,6 @@ Results from Royal Navy Masters 2017 (Millfield School)
 ![](/images/2017/03/Royal-Navy-March-2017-4-300x201.jpg)
  Mark Partridge, Jessica Wooddisse, William Lee
 
-
-
- 
-
-
 | Swimmer |Event |Time |Position |
 |---|---|---|---|
 | Jessica Wooddisse |50m Freestyle |31.19 |4th |

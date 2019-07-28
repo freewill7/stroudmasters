@@ -5,9 +5,7 @@ draft: false
 ---
 Last Saturday, whilst most of us were waking up in the comfort of our warm and cosy beds, and other members of Stroud Masters Swimming Club were travelling west to Cardiff for an indoor swim meet (and a temperate 28oC water temp), two members continued their weekly outdoor swimming pursuits in the picturesque setting of Lake 32, Cotswold Water Park.
 
-
-
-[](/images/2015/01/image002.gif)
+[Swan, Lorraine Savager, Richard Searle](/images/2015/01/image002.gif)
  Swan, Lorraine Savager, Richard Searle
 
 Not deterred with the bitterly cold outdoor air temp of -3oC, water frozen in the lake's car park puddles, and only a slightly âwarmer' water temperature of 5oC, Lorraine Savagar and Richard Searle joined the lake's resident Mute swans to see in December in a way most others would consider rather eccentric!

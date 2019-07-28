@@ -5,8 +5,6 @@ draft: false
 ---
 Jessica swam to a new British and European record with the newly formed Sub160 swimming team in the ladies 4 x 200m freestyle relay (160 age-group) at the Short Course Nationals in Sheffield in October.
 
-
-
 ![Sandy Jones, Jessica Wooddisse, Karen Driver, Nicola Latty](/images/2015/01/sub160_october_2014.jpg)
 
  Sandy Jones, Jessica Wooddisse, Karen Driver, Nicola Latty

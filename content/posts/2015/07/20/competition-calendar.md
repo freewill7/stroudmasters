@@ -5,6 +5,5 @@ draft: false
 ---
 Mark has compiled a list of future events that members may be interested in.  Events include open water and indoor events (25m and 50m) with some events being an ideal starting point for those new to competitions.
 
-See [Competition Calendar](http://stroudmasters.org/calendar/)
- or click on "Calendar" at the top of our website for more details.
+See [Competition Calendar](/calendar/) or click on "Calendar" at the top of our website for more details.
 

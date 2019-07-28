@@ -7,10 +7,7 @@ Results from the 2016 Swim Wales Masters Championships in Swansea
 
 ![Mark Partridge, Jessica Woodisse, Sean Kinsey](/images/2016/03/swansea-masters-2016-300x168.jpg)
 
- Mark Partridge, Jessica Woodisse, Sean Kinsey
-
-
-
+Mark Partridge, Jessica Woodisse, Sean Kinsey
 
 | Swimmer |Event |Time |Position |
 |---|---|---|---|

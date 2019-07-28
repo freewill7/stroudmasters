@@ -5,8 +5,6 @@ draft: false
 ---
 At the end of January, a small team from Stroud Masters Swimming Club travelled to Crawley to swim in the South East Regional Masters Swimming Championships.
 
-
-
 ![Mark Partridge, Geoff Twinning, Jessica Wooddisse](/images/2015/01/seregionalcrawley2012.jpg)
 
  Mark Partridge, Geoff Twinning, Jessica Wooddisse

@@ -5,8 +5,6 @@ draft: false
 ---
 Stroud Masters swimmers kicked off 2014 with a trip to Shrewsbury in Shropshire. A team of six travelled to compete at the Shrewsbury Masters New Year Gala which unlike the majority of competitions allows swimmers to only enter one event in each of the four strokes from a choice of three distances, and also an individual medley. Swimmers gain points for each event entered which are then added together and result in an overall age group placing.
 
-
-
 ![Richard Searle, Mark Partridge, Joe Lewis, Jessica Wooddisse, Nikki Gaunt, Elaine Lewis](/images/2015/01/shrewbury_january_2014.jpg)
 
  Richard Searle, Mark Partridge, Joe Lewis, Jessica Wooddisse, Nikki Gaunt, Elaine Lewis

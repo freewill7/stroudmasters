@@ -5,9 +5,6 @@ draft: false
 ---
 Results from Midlands Championships (27th May 2018) in Rugby.
 
-
-
-
 | Swimmer |Event |Time |Position |
 |---|---|---|---|
 | Jessica |200m Freestyle |2.18.20 |1st |

@@ -5,15 +5,13 @@ draft: false
 ---
 Results from 13th April 2014.
 
-
-
 ![Front: Jessica Wooddisse, Zoe Browning, Jo Green Rear: Mark Partridge, Andy Tarr](/images/2015/01/gloucester_masters_april_2014.jpg)
 
  Rear: Mark Partridge, Andy Tarr   Front: Jessica Wooddisse, Zoe Browning, Jo Green
 
-
-| Zoe Browning |50m fly |38.31 |6th |
+| Swimmer | Distance | Time | Position |
 |---|---|---|---|
+Zoe Browning |50m fly |38.31 |6th |
 |  |50m backstroke |37.09 |4th |
 |  |100m individual medley |1:21.82 |4th |
 |  |50m breaststroke |43.79 |5th |

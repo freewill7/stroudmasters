@@ -5,8 +5,6 @@ draft: false
 ---
 A small team from Stroud Masters competed in their first open water race of the year at Dorney Lake near Windsor.
 
-
-
 ![Jessica Wooddisse, Mark Partridge, Lorraine Savagar](/images/2015/01/img_1693.jpg)
 
  Jessica Wooddisse, Mark Partridge, Lorraine Savagar

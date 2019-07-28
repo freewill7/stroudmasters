@@ -7,11 +7,9 @@ Stroud District Council are currently undertaking  a consultation on car park c
 
 [https://www.stroud.gov.uk/parking-streets-and-travel/parking/stroud-district-car-parking-review](https://www.stroud.gov.uk/parking-streets-and-travel/parking/stroud-district-car-parking-review)
 
-
 Stroud Town Council will be collating a response and welcomes feedback. You can write to or e-mail the council in addition to a quick survey at:
 
 [https://www.surveymonkey.co.uk/r/parkingSP](https://www.surveymonkey.co.uk/r/parkingSP)
-
 
 This is a District Council decision and one which has already stimulated a great deal of debate. The council looks forward to receiving peoples thoughts so that it can create a response which accurately reflects the views of the local community.
 

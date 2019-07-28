@@ -5,11 +5,6 @@ draft: false
 ---
 Results from January 2016
 
-
-
- 
-
-
 | Swimmer |Event |Time |Position |
 |---|---|---|---|
 | Jessica |400m Freestyle |4.53.99 |1st |

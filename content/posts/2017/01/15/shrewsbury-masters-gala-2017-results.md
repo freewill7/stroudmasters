@@ -6,11 +6,6 @@ draft: false
 ![](/images/2017/01/image1-1024x576.jpeg)
  Mark Partridge, Mike Joffe, Sandy Jones, Jessica Wooddisse
 
-
-
- 
-
-
 | Swimmer |Event |Time |Position |
 |---|---|---|---|
 | Mark Partridge |100m Individual Medley |1.14.84 |4th |

@@ -5,7 +5,6 @@ draft: false
 ---
 Existing memberships are due for renewal...
 
-
 Hello Everyone
 
 Please find attached the Club membership form for 2015. Please can you complete and return to Lorraine (or Mark or Jessica) before the end of January 2015 together with your membership fee of £45.00. If the Membership Form and Fees are not received by the end of January then it will be assumed you do not wish to renew and your ASA registration will cease.

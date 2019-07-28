@@ -6,11 +6,6 @@ draft: false
 ![](/images/2018/04/gloucester_2018.png)
  Mark Partridge, William Lee, Richard Percival, Jessica Wooddisse, Neil Atrz, Liz Wroe, Andy Tarr
 
-
-
- 
-
-
 | Swimmer |Event |Time |Position |
 |---|---|---|---|
 | Jessica Wooddisse |400m freestyle |4.46.61 |1st |

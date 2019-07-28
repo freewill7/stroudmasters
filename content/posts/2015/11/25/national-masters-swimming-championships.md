@@ -5,13 +5,9 @@ draft: false
 ---
 In October, Jessica and Mark represented Stroud Masters at the National Masters Swimming Championships held at Ponds Forge in Sheffield.
 
-
-
- 
-
-
-| Jessica |400m IM |5.35.53 |4th (PB) |
+| Swimmer | Event | Time | Position |
 |---|---|---|---|
+| Jessica |400m IM |5.35.53 |4th (PB) |
 |  |400m Freestyle |4.50.72 |2nd |
 |  |1500m Freestyle |18.33.97 |1st |
 | Mark |50m Breaststroke |34.91 |5th |

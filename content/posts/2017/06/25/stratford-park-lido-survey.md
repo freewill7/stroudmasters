@@ -11,7 +11,6 @@ As part of this project, we want to hear the voices and opinions of everyone in 
 
 [http://www.smartsurvey.co.uk/s/SPLIDO6/](http://www.smartsurvey.co.uk/s/SPLIDO6/)
 
-
 This should take you no more than 10 minutes and there is the chance to win 3 months membership to Stratford Park Leisure Centre. This an exciting opportunity for you to have your say on what you think the future of the outdoor pool could be and how we could improve the it to make it more relevant and engaging to the people and communities in Stroud.
 
 Built in 1937, the Stratford Park Lido (Outdoor Pool) comprises a swimming pool 50m x 18m fed by spring water, a parabolic diving board, art deco fountain, changing rooms and other out buildings. The Lido is owned by Stroud District Council and managed by SLM Leisure and located in Stratford Park adjacent to a Leisure Centre built in 1974. Stratford Park also incorporates a museum, arboretum, lake and open spaces and forms the Stratford Park Conservation Area.

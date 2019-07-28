@@ -7,10 +7,7 @@ Hello Everyone
 
 I've had a few queries recently regarding the purchasing of Club shirts and hoodies. If you represent the Club then a polo shirt and hat are provided by the Club. However if you would like to purchase a shirt (polo or t) or a hoodie then use the link below to see what's available.
 
-
-
 [http://directuniform.co.uk/stroudmasters/](http://directuniform.co.uk/stroudmasters/)
-
 
 You could either place the order yourself via the website or if you let me have details of your order (code, size, etc) plus payment I can then place one larger order from the Club. This would mean that your wouldn't have to pay postage or arrange to collect.
 

@@ -6,10 +6,7 @@ draft: false
 ![](/images/2018/05/millfield2018.png)
  Mark Partridge, Jessica Wooddisse, Neil Atrz
 
-Results froim the Royal Navy Masters competition at Millfield (13th May 2018)
-
-
-
+Results from the Royal Navy Masters competition at Millfield (13th May 2018)
 
 | Swimmer |Event |Time |Position |
 |---|---|---|---|

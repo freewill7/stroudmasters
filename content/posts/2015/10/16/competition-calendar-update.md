@@ -5,6 +5,5 @@ draft: false
 ---
 New events have been added to our competition calendar including next years European Masters.
 
-See [Competition Calendar](http://stroudmasters.org/calendar/)
- or click on "Calendar" at the top of the website.
+See [Competition Calendar](/calendar/) or click on "Calendar" at the top of the website.
 

@@ -8,18 +8,16 @@ Congratulations to Club swimmers Kelly Young and Richard Percival who have just 
 ![](/images/2017/07/richarh_and_kelly.png)
  Kelly Young and Richard Percival
 
-
-
 Results
 
 **Kelly :**
 
-Gold in the 50 and 100m backstroke and 4 x 50m freestyle and medley relays
-Bronze in the 200m freestyle, 200m IM and 50m freestyle
-World record in 100m backstroke
+- Gold in the 50 and 100m backstroke and 4 x 50m freestyle and medley relays
+- Bronze in the 200m freestyle, 200m IM and 50m freestyle
+- World record in 100m backstroke
 
 **Richard:**
 
-Gold in the 50, 100 and 200m freestyle
-Bronze in the 50m and 100m backstroke.
+- Gold in the 50, 100 and 200m freestyle
+- Bronze in the 50m and 100m backstroke.
 

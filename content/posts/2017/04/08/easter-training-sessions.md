@@ -7,12 +7,8 @@ Dear All,
 
 The following changes have been made to swim sessions over the Easter break:
 
-
-
 - Friday 14th April - 07:30 - 08:30 at Archway
-
 - Sunday 16th April - No session
-
 - Monday 17th April - No session
 
 
