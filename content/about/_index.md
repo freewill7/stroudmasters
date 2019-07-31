@@ -1,6 +1,6 @@
 Stroud Masters Swimming Club caters for swimmers of 18 years and older.
 
-Annual membership of the club in 2019 is £45, membership forms can be found in the [Documents](/about/documents) section.
+Annual membership of the club in 2019 is £45, membership forms can be found in the [Documents](/about/#Documents) section below.
 
 Details of sessions and the per-session costs can be found in the [Sessions](/training/) section.
 
@@ -22,3 +22,7 @@ Stroud Masters coaching is described [here](/about/coaches).
 Committee
 ---
 Stroud Masters is run though a committee for more details click [here](/about/committee).
+
+History
+---
+A brief history of the club can be found [here](/about/history).
