@@ -10,6 +10,7 @@ Unless otherwise stated the session times and distances are based on the most ab
 
 Past sessions:
 
+- 11/8/2019 - Will - 90 minute session with lots of frontcrawl - [Link](https://docs.google.com/document/d/1YMJVZU1HZ87E05myzaJO-fStzJzUF5wFc0ZASPhaagI/edit?usp=sharing)
 - 7/7/2019 - Will - 90 minute session with medleys - [Link](https://docs.google.com/document/d/1CSRNJC-BswaNSCi9vLcECumezZUfBbdMI2TAa0Uj53U/edit?usp=sharing)
 - 26/5/2019 - Will - 90 minute session with sculling and pyramid - [Link](https://docs.google.com/document/d/11sauRnRGqthhvv4uDyppmEMzLYSmfokdlgwTIxbqDIQ/edit?usp=sharing)
 - 3/3/2019 – Will – 90 minute session based round abcs – [Link](https://docs.google.com/document/d/1XH4jYX6klNx28H0yl1luMUVNSCjOXmwPRK9c9uROAt4/edit?usp=sharing)

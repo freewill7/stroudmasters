@@ -3,7 +3,7 @@ title: "Gloucester Masters Open Meet 2019 - Results"
 date: 2019-04-02T17:24:07+0000
 draft: false
 ---
-![L-R Richard, Dan, Jessica, Will, Mark, Sean, Andy, Jack](/images//lh3.googleusercontent.com/KWhXHqIEn4lcJCQgJkVIHvx_-IC5DNRKK13tL3_dsw3Yb-PZvg84Dim7nyxd9tHvOVZjY5EaupXKA5aINlqBD0KuIPQGOenqHHLHeBVfRtn1KQGwJ2QkPcFU1ohBZo30fMFGWXm8wOHoF6Rb1w)
+![L-R Richard, Dan, Jessica, Will, Mark, Sean, Andy, Jack](/images/2019/04/gloucester_masters.png)
 
 <!--more-->
 
