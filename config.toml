@@ -9,6 +9,7 @@ theme = "mainroad"
 [Params]
   subtitle = "A friendly adult swimming club for all things swimming"
   icon = "/images/2014/12/newlogosmall.png"
+  readmore = true
 
 [[menu.main]]
   name = "Home"

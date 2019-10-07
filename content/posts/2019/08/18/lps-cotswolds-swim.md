@@ -9,7 +9,7 @@ Results from Cotswold Water Park (LPS Events)...
 
 |Swimmer|Event|Time|Position|
 |---|---|---|---|
-|William Lee|5km|1:31:12|3rd|
+|William Lee|5km|1:31:12|11th|
 |Mark Partridge|3.8km|57:52|6th|
 |Gwen Kinsey|1.5km|21:24|2nd|
 |Jack Powis|1.5km|22:27|8th|
