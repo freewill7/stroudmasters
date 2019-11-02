@@ -29,7 +29,7 @@ Mens 18-24
 
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|William Lee|29.54|Gloucester|Open Meet|11-Apr-10|
+|50m|Neil Craxford|27.19|Weston|South West Champs|29-Sep-19|
 |100m|Joe Lewis|1.00.17|Shrewsbury|Open Meet|07-Jan-12|
 |200m|William Lee|2.31.53|Millfield|Royal Navy Meet|28-Mar-10|
 |400m|Jack Powis|5.27.67|Gloucester|Open Meet|31-Mar-19|
@@ -198,9 +198,9 @@ Mens 55-59
 |---|---|---|---|---|---|
 |50m|Mark Partridge|28.66|Millfield|Royal Navy Meet|13-May-18|
 |100m|Mark Partridge|1.07.23|Millfield|Royal Navy Meet|13-May-18|
-|200m|Richard Percival| 2.38.57|Gloucester|Open Meet|22-Apr-18|
+|200m|Sean Kinsey| 2.13.54|Sheffield|ASA Nationals|26-Oct-19|
 |400m|Sean Kinsey|4.44.52|Gloucester|Open Meet|31-Mar-19|
-|800m| | | | | |
+|800m|Sean Kinsey|9.50.90|Sheffield|ASA Nationals|27-Oct-19|
 |1500m| | | | | |
 
 Womens 55-59
@@ -247,7 +247,7 @@ Mens 65-69
 |50m|Geoffrey Baxter|35.28|Gloucester|Open Meet|23-Apr-06|
 |100m| | | | | |
 |200m| | | | | |
-|400m| | | | | |
+|400m|Andrew Lelliot|6.56.75|Weston|South West Champs|29-Sep-19|
 |800m| | | | | |
 |1500m| | | | | |
 

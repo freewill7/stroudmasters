@@ -133,7 +133,7 @@ Mens 55-59
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m|Mark Partridge|34.79|Sheffield|ASA Nationals|26-Oct-18|
-|100m|Mark Partridge|1.20.76|Gloucester|Open Meet|22-Apr-18|
+|100m|Mark Partridge|1.19.78|Sheffield|ASA Nationals|25-Oct-19|
 |200m|Mark Partridge|3.10.19|Sheffield|ASA Nationals|27-Oct-18|
 
 Womens 55-59
@@ -153,6 +153,22 @@ Mens 60-64
 |200m| | | | | |
 
 Womens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m| | | | | |
+|100m| | | | | |
+|200m| | | | | |
+
+Mens 65-69
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m|Andrew Lelliott|47.40|Weston|South West Champs|29-Sep-19|
+|100m| | | | | |
+|200m| | | | | |
+
+Womens 65-69
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|

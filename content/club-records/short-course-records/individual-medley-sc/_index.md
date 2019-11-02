@@ -14,7 +14,7 @@ Womens Overall
 |---|---|---|---|---|---|
 |100m|Kerrie Aldridge|1.13.50|Horfield|G&S County Champs|13-Sep-09|
 |200m|Jessica Wooddisse|2.39.43|Gloucester|Open Meet|08-May-16|
-|400m|Jessica Wooddisse|5.35.27|Sheffield|ASA Nationals|28-Oct-17|
+|400m|Jessica Wooddisse|5.35.19|Sheffield|ASA Nationals|26-Oct-19|
 
 Mens 18-24
 ---
@@ -94,7 +94,7 @@ Womens 40-44
 |---|---|---|---|---|---|
 |100m|Jessica Wooddisse|1.15.75|Horfield|G&S County Champs|18-May-19|
 |200m|Jessica Wooddisse|2.39.43|Gloucester|Open Meet|08-May-16|
-|400m|Jessica Wooddisse|5.35.27|Sheffield|ASA Nationals|28-Oct-17|
+|400m|Jessica Wooddisse|5.35.19|Sheffield|ASA Nationals|26-Oct-19|
 
 Mens 45-49
 ---
@@ -133,10 +133,42 @@ Mens 55-59
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |100m|Mark Partridge|1.17.30|Gloucester|Open Meet|31-Mar-19|
-|200m|Mark Partridge|2.58.50|Llandudno|Arfon Meet|06-Oct-18|
+|200m|Mark Partridge|2.54.42|Sheffield|ASA Nationals|26-Oct-19|
 |400m|Sean Kinsey|5.19.00|Gloucester|Open Meet|31-Mar-19|
 
 Womens 55-59
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|100m||||||
+|200m||||||
+|400m||||||
+
+Mens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|100m||||||
+|200m||||||
+|400m||||||
+
+Womens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|100m||||||
+|200m||||||
+|400m||||||
+
+Mens 65-69
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|100m|Andrew Lelliott|1.40.60|Weston|South West Champs|29-Sep-19|
+|200m||||||
+|400m||||||
+
+Womens 65-69
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|

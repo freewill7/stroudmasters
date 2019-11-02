@@ -10,6 +10,7 @@ Unless otherwise stated the session times and distances are based on the most ab
 
 Past sessions:
 
+- 13/10/2019 - Will - 90 minute backstroke progression and frontcrawl kick/pull/full - [Link](https://docs.google.com/document/d/1YREF8GseFmMvVnfTHrSTbYoXvy7IzjkmFT-5BNSbxvg/edit?usp=sharing)
 - 9/8/2019 - Will - 90 minute session with lots of kick and frontcrawl building pace - [Link](https://docs.google.com/document/d/1T4VpPRhi0yS321B7r6QDabQle8vkSflCBgNizONH_Os/edit?usp=sharing)
 - 11/8/2019 - Will - 90 minute session with lots of frontcrawl - [Link](https://docs.google.com/document/d/1YMJVZU1HZ87E05myzaJO-fStzJzUF5wFc0ZASPhaagI/edit?usp=sharing)
 - 7/7/2019 - Will - 90 minute session with medleys - [Link](https://docs.google.com/document/d/1CSRNJC-BswaNSCi9vLcECumezZUfBbdMI2TAa0Uj53U/edit?usp=sharing)
