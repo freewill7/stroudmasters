@@ -1,13 +1,13 @@
 ---
 text-align: left
 ---
-Below are upcoming competitions that members may be interested it. For more details contact Mark (see [Contact Us](/contact-us))
+Below are upcoming competitions that members may be interested it. For more details contact Mark (see [Contact Us](/contact-us)).
 
 Last updated 3rd November 2019
 
 |When|What|Where|Closing Date|Pool Length|Online entry via ASA website|
 |---|---|---|---|---|---|
-|18-19th January|South East Championships|Crawley|TBA|50m|Not yet|
+|18-19th January|South East Championships|Crawley|8th January|50m|Not yet|
 |23rd February|Royal Navy Meet|Millfield|7th February|25m|Yes| 
 |7th March|Bracknell|Bracknell|13th Feburary|25m|Yes|
 |29th February/1st March|Swim Wales Masters Meet|Swansea|TBA|50m|Not yet|
