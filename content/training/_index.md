@@ -2,7 +2,7 @@
 
 Training plans for previous sessions can be found [here](/training/session-plans).
 
-As of April 2018, times of sessions are:
+As of January 2020, times of sessions are:
 
 |Day|Time|Location|
 |---|---|---|
