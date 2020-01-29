@@ -10,6 +10,7 @@ Unless otherwise stated the session times and distances are based on the most ab
 
 Past sessions:
 
+- 19/1/2020 - Will - 90 minute session based on the [Mel Marshals](http://www.swimming.org/masters/mel-marshalls-beastly-two-hour-masters-set/) set [Link](https://docs.google.com/document/d/1Vp7ADKRXNjoQ0_sSUBDO1ruL3syA-S1LKraFWCBwzyA/edit?usp=sharing)
 - 13/10/2019 - Will - 90 minute backstroke progression and frontcrawl kick/pull/full - [Link](https://docs.google.com/document/d/1YREF8GseFmMvVnfTHrSTbYoXvy7IzjkmFT-5BNSbxvg/edit?usp=sharing)
 - 9/8/2019 - Will - 90 minute session with lots of kick and frontcrawl building pace - [Link](https://docs.google.com/document/d/1T4VpPRhi0yS321B7r6QDabQle8vkSflCBgNizONH_Os/edit?usp=sharing)
 - 11/8/2019 - Will - 90 minute session with lots of frontcrawl - [Link](https://docs.google.com/document/d/1YMJVZU1HZ87E05myzaJO-fStzJzUF5wFc0ZASPhaagI/edit?usp=sharing)
