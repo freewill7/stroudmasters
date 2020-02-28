@@ -8,8 +8,7 @@ If you are thinking of joining but you’re not sure whether masters swimming is
 
 Documents
 ---
-- [Club Constitution](/images/2018/09/SMSC-Constitution-28-09-2018.pdf) (September 2018)
-- [Draft Club Constitution](/images/2020/01/SMSC_Constitution_2020_Draft.pdf) (January 2020)
+- [Club Constitution](/images/2020/02/constitution_2020.pdf) (February 2020)
 - [Insurance Certificate](/images/2018/03/SKM_C30818040908430.pdf) (2018)
 - [Member Rules](/images/2018/04/member_rules_2018_april.pdf) (April 2018)
 - [Common Coaching Terms](/images/2018/04/common_coaching_2018_april.pdf) (April 2018)
