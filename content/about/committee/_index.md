@@ -16,4 +16,5 @@ If you have any information for this club website or discover any issues when us
 | Nick Bishop | Committee Member |
 | Peter Hardman | Committee Member |
 | Andrew Lelliot | Committee Member |
+| Jack Powis | Committee Member |
 
