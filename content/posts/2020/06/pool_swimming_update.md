@@ -1,7 +1,7 @@
 ---
 title: "Pool Swimming Update"
 date: 2020-06-21T12:00:00+0000
-draft: false
+draft: true 
 ---
 Dear Members,
 You may have already seen the guidance issued this week from Swim England …if not, it can been read [here](https://www.swimming.org/swimengland/pool-return-guidance-documents/).
