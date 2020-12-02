@@ -2,7 +2,7 @@
 
 Training plans for previous sessions can be found [here](/training/session-plans).
 
-As of September 21st 2020, times of sessions are:
+As of December 1st 2020, times of sessions are:
 
 |Day|Time|Location|
 |---|---|---|
@@ -32,7 +32,6 @@ Monday, Wednesday and Friday Mornings (Archway) Morning sessions:
 ## Archway School Directions
 
 ![Directions for archway pool](/images/2019/05/archway_map.jpg)
--->
 
 <!--
 As of January 2020, times of sessions are:
