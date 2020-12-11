@@ -106,8 +106,8 @@ Womens 45-49
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Shirley Billson|38.54|Gloucester|Open Meet|15-Apr-07|
-|100m||||||
+|50m|Jessica Wooddisse|33.72|Millfield|Royal Navy Meet|23-Feb-20|
+|100m|Jessica Wooddisse|1.13.00|Millfield|Royal Navy Meet|23-Feb-20|
 |200m||||||
 
 Mens 50-54

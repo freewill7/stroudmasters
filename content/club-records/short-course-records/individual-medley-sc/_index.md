@@ -108,7 +108,7 @@ Womens 45-49
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|100m|Nikki Gaunt|1.42.05|Horfield|G&S County Champs|09-Sep-12|
+|100m|Jessica Wooddisse|1.17.64|Millfield|Royal Navy Meet|23-Feb-20|
 |200m||||||
 |400m||||||
 

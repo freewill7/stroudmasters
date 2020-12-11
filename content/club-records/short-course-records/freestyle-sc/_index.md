@@ -161,7 +161,7 @@ Womens 45-49
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m|Nikki Gaunt|37.91|Horfield|G&S County Champs|11-Sept-11|
-|100m| | | | | |
+|100m|Jessica Wooddisse|1.07.43|Millfield|Royal Navy Meet|23-Feb-20|
 |200m|Tracy Gwyer|3.20.51|Gloucester|Open Meet|29-Mar-09|
 |400m|Tracy Gwyer|6.56.35|Gloucester|Open Meet|29-Mar-09|
 |800m| | | | | |
