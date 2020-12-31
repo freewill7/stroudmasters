@@ -2,6 +2,9 @@
 
 Training plans for previous sessions can be found [here](/training/session-plans).
 
+Due to Gloucestershire entering tier 4 (31 December 2020) there are no swimming sessions for the foreseeable future. We will be updating the website and contacting members when we are in a position to resume sessions.
+
+<!--
 As of December 1st 2020, times of sessions are:
 
 |Day|Time|Location|
@@ -32,6 +35,7 @@ Monday, Wednesday and Friday Mornings (Archway) Morning sessions:
 ## Archway School Directions
 
 ![Directions for archway pool](/images/2019/05/archway_map.jpg)
+-->
 
 <!--
 As of January 2020, times of sessions are:
