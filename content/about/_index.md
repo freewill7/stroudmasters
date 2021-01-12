@@ -13,6 +13,7 @@ If you are thinking of joining but you’re not sure whether masters swimming is
 Documents
 ---
 - [Club Constitution](/images/2020/02/constitution_2020.pdf) (February 2020)
+- [Draft Constitution 2021](/images/2021/01/draft_constitution_2021.pdf) (January 2021)
 - [Insurance Certificate](/images/2018/03/SKM_C30818040908430.pdf) (2018)
 - [Member Rules](/images/2018/04/member_rules_2018_april.pdf) (April 2018)
 - [Common Coaching Terms](/images/2018/04/common_coaching_2018_april.pdf) (April 2018)
