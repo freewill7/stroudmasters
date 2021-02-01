@@ -36,10 +36,10 @@ theme = "mainroad"
   name = "Training"
   url = "/training"
   weight = 6
-[[menu.main]]
-  name = "Partners"
-  url = "/partners/"
-  weight = 7
+#[[menu.main]]
+#  name = "Partners"
+#  url = "/partners/"
+#  weight = 7
 [[menu.main]]
   name = "Facebook"
   url = "https://www.facebook.com/groups/1408505989448473/"
