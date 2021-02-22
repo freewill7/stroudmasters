@@ -17,7 +17,7 @@ Attached is a [form for nominations](/images/2021/01/nominations_2021.pdf) to th
 
 Role descriptions are available on the [Committee](/about/committee) section of the Club web-site.
 
-Please also send me details of any resolutions you may wish to put forward at the AGM by the 31st January.
+Please send me details of any resolutions you may wish to put forward at the AGM by the 31st January.
 
 Regards
 
