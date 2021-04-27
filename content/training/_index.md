@@ -2,14 +2,16 @@
 
 Training plans for previous sessions can be found [here](/training/session-plans).
 
-Due to Gloucestershire entering tier 4 (31 December 2020) there are no swimming sessions for the foreseeable future. We will be updating the website and contacting members when we are in a position to resume sessions.
-
 <!--
-As of December 1st 2020, times of sessions are:
+Due to Gloucestershire entering tier 4 (31 December 2020) there are no swimming sessions for the foreseeable future. We will be updating the website and contacting members when we are in a position to resume sessions.
+-->
+
+As of 17th May 2021, times of sessions are:
 
 |Day|Time|Location|
 |---|---|---|
 |Monday|06:30-07.30|Archway School, Stroud ([map](/training#Archway-School-Directions))|
+|Tuesday|18:30-20.00|Archway School, Stroud|
 |Wednesday|06:30-07.30|Archway School, Stroud|
 |Friday|07:30-09.00|Stratford Park Leisure Centre, Stroud|
 
