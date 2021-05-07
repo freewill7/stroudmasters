@@ -7,10 +7,10 @@ Dear All,
 
 There is finally some positive news and we are hoping that club sessions will be restarting from Monday 17th May. The following club sessions will be run from this date:
 
-- Monday mornings - 0630-0730 at Archway
-- Tuesday evenings - 1830-2000 at Archway
-- Wednesday mornings - 0630-0730 at Archway
-- Friday mornings - 0730-0900 at Stratford Park
+- Monday mornings - 06:30-07:30 at Archway
+- Tuesday evenings - 18:30-20:00 at Archway
+- Wednesday mornings - 06:30-07:30 at Archway
+- Friday mornings - 07:30-09:00 at Stratford Park
 
 Stratford Park are currently unable to offer the Sunday morning slot as they are not yet operating to their normal timetable. Once their timetable returns to normal the Stratford Park session will revert to Sunday mornings and the Friday session will move to Archway.
 
