@@ -13,9 +13,8 @@ As of 17th May 2021, times of sessions are:
 |Monday|06:30-07.30|Archway School, Stroud ([map](/training#Archway-School-Directions))|
 |Tuesday|18:30-20.00|Archway School, Stroud|
 |Wednesday|06:30-07.30|Archway School, Stroud|
-|Friday|07:30-09.00|Stratford Park Leisure Centre, Stroud|
-
-Due to COVID-19 we are operating Friday morning sessions on a rota basis for members. Other sessions may become rota based if demand requires it.
+|Friday|06:30-07.30|Archway School, Stroud|
+|Sunday|07:30-09.00|Stratford Park Leisure Centre, Stroud|
 
 During holiday periods sessions may be cancelled or timings changed. Members will be informed by e-mail and reminders posted on the Club Website. It is important that Club members provide an up to date email address to ensure they receive the latest news and information from the Club.
 
