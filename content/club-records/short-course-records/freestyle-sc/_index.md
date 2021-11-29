@@ -160,12 +160,12 @@ Womens 45-49
 
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Nikki Gaunt|37.91|Horfield|G&S County Champs|11-Sept-11|
-|100m|Jessica Wooddisse|1.07.43|Millfield|Royal Navy Meet|23-Feb-20|
-|200m|Tracy Gwyer|3.20.51|Gloucester|Open Meet|29-Mar-09|
-|400m|Tracy Gwyer|6.56.35|Gloucester|Open Meet|29-Mar-09|
-|800m| | | | | |
-|1500m|Tracy Gwyer|27.07.33|Gloucester|SW Region Champs|29-Mar-09|
+|50m|Jessica Wooddisse|31.37|Millfield|Inter County Relays|14-Nov-21|
+|100m|Jessica Wooddisse|1.06.76|Newport|Welsh SC Masters|27-Nov-21|
+|200m|Jessica Wooddisse|2.19.84|Sheffield|ASA Nationals|30-Oct-21|
+|400m|Jessica Wooddisse|4.50.17|Sheffield|ASA Nationals|30-Oct-21|
+|800m|Jessica Wooddisse|9.57.72|Sheffield|ASA Nationals|31-Oct-21|
+|1500m|Jessica Wooddisse|18.53.92|Sheffield|ASA Nationals|29-Oct-21|
 
 Mens 50-54
 ---

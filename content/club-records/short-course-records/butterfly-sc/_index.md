@@ -106,9 +106,9 @@ Womens 45-49
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Jessica Wooddisse|33.72|Millfield|Royal Navy Meet|23-Feb-20|
+|50m|Jessica Wooddisse|33.29|Newport|Welsh SC|27-Nov-21|
 |100m|Jessica Wooddisse|1.13.00|Millfield|Royal Navy Meet|23-Feb-20|
-|200m||||||
+|200m|Jessica Wooddisse|2.38.78|Sheffield|ASA Nationals|29-Oct-21|
 
 Mens 50-54
 ---

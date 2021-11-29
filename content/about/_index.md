@@ -1,4 +1,4 @@
-Stroud Masters Swimming Club caters for swimmers of 18 years and older.
+Stroud Masters Swimming Club operates for swimmers of 18 years and older.
 
 Annual membership of the club in 2021 is £45, membership forms can be found in the [Documents](/about/#Documents) section below.
 
@@ -31,7 +31,7 @@ Stroud Masters coaching is described [here](/about/coaches).
 
 Committee
 ---
-Stroud Masters is run though a committee for more details click [here](/about/committee).
+Stroud Masters is run though a committee. For more details click [here](/about/committee).
 
 History
 ---
