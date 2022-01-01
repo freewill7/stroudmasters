@@ -14,7 +14,8 @@ Swim times over the Christmas break are as follows :
 - Wednesday 29th December - 7.30-8.30am Archway School
 - Friday 31st December - 7.30-8.30am Archway School
 - Sunday 2nd January SPLC - **no session**
-- Monday 3rd January all sessions back to normal
+- Monday 3rd January - 7.30-8.30am Archway School
+- Tuesday 4th January - all sessions back to normal
 
 If you have any queries please let me know. 
 

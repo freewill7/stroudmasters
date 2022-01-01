@@ -16,7 +16,7 @@ Documents
 - [Insurance Certificate](/images/2021/05/insurance_certificate.pdf) (May 2021)
 - [Member Rules](/images/2018/04/member_rules_2018_april.pdf) (April 2018)
 - [Common Coaching Terms](/images/2018/04/common_coaching_2018_april.pdf) (April 2018)
-- [Membership Form 2020](/images/2020/01/Membership_Form_2020_v1.pdf)
+- [Membership Form 2022](/images/2022/01/Membership_Form_2022_v1.pdf)
 - [Privacy Notice 2018](/images/2018/04/privacy-notice-2018.pdf)
 
 Risk Assessments
