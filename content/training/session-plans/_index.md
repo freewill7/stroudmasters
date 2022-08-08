@@ -47,7 +47,7 @@ Past sessions:
 - 04/10/2015 – Will – 90 minute session to establish pacing – [Link](https://docs.google.com/document/d/1hHcGpT20ie13q9rOKeUKOllR2fkOqqOSL3Mh66l3JHc/edit?usp=sharing)
 - 02/08/2015 – Will – 90 minute session at pace (edited version of [Mel Marshals Beastly Masters Set](http://www.swimming.org/masters/mel-marshalls-beastly-two-hour-masters-set/)) – [Link](https://drive.google.com/open?id=1Uiasj7aVakZ1XD4vC99Tc1uxJ08yo2Jxrp4CoYNoyPM)
 - 19/07/2015 – Jessica – 90 minute session with 200m active recovery sets and kick – [Link](https://docs.google.com/document/d/1JraKvNLn9lHvGzOvzLyyeRQmGuAPiwajpVcnpXpwNUw/edit?usp=sharing)
-- 12/07/2015 – Laura – 90 minute session with medley drill warm up, mixed pyramid main set and 50m sets to finish – [Link](https://drive.google.com/file/d/0B0GrwCJwpy-mRnJOMG85QnU3ejJlNVVMQXRvOEVtZzFLb25v/view?usp=sharing)
+- 12/07/2015 – Laura – 90 minute session with medley drill warm up, mixed pyramid main set and 50m sets to finish – [Link](https://docs.google.com/document/d/0B0GrwCJwpy-mRnJOMG85QnU3ejJlNVVMQXRvOEVtZzFLb25v/edit?usp=sharing&ouid=103752455574999215167&resourcekey=0-iXIjxJKyizgOLLDaA6kL-g&rtpof=true&sd=true)
 - 28/06/2015 – Will – 90 minute session with some focus on breaststroke – [Link](https://docs.google.com/document/d/11QevgI0NTPTqPk1HZZsD1cEuOCGildl9BUBMAE8z82g/edit?usp=sharing)
 - 07/05/2015 – Laura – 90 minute session building heart rate before pull based main set – [Link](https://docs.google.com/document/d/1Ja791bZMr0PGilzo4KhJFkUR3Ul6MlnuXOwS_ky3Hp4/edit?usp=sharing)
 - 31/05/2015 – Will – 90 minute session trying to get power into your stroke – [Link](https://docs.google.com/document/d/1atezHNI1ByT46plP42x-Dxd-yL7hXJTJi-FAnmXqqAY/edit?usp=sharing)
