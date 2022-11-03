@@ -14,7 +14,7 @@ Womens Overall
 |---|---|---|---|---|---|
 |50m|Kerrie Aldridge|34.54|Cardiff|Welsh Capital Masters|07 May 11|
 |100m|Kerrie Aldridge|1.13.39|Cardiff|Welsh Capital Masters|07 May 11|
-|200m|Jessica Wooddisse|2.56.11|Swansea|Welsh Masters Champs|08 Mar 14|
+|200m|Jessica Wooddisse|2.54.09|Swansea|Welsh Masters Champs|05 Mar 22|
 
 Mens 18-24
 ---
@@ -110,7 +110,7 @@ Womens 45-49
 |---|---|---|---|---|---|
 |50m| | | | | |
 |100m| | | | | |
-|200m| | | | | |
+|200m|Jessica Wooddisse|2.54.09|Swansea|Welsh Masters Champs|5 Mar 22|
 
 Mens 50-54
 ---

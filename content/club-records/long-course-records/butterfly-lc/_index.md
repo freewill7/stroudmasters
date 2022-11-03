@@ -110,7 +110,7 @@ Womens 45-49
 |---|---|---|---|---|---|
 |50m|Jessica Wooddisse|34.30|Crawley|SE Region Champs|18 Jan 20|
 |100m|Jessica Wooddisse|1.15.06|Swansea|Welsh Masters Champs|01 Mar 20|
-|200m|Jessica Wooddisse|2.47.84|Crawley|SE Region Champs|19 Jan 20|
+|200m|Jessica Wooddisse|2.45.01|Aberdeen|British Masters LC|18 Jun 22|
 
 Mens 50-54
 ---

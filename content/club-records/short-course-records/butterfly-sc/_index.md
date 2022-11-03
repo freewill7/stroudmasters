@@ -108,7 +108,7 @@ Womens 45-49
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Jessica Wooddisse|33.29|Newport|Welsh SC|27-Nov-21|
+|50m|Jessica Wooddisse|33.19|Millfield|Royal Navy Meet|27-Feb-22|
 |100m|Jessica Wooddisse|1.13.00|Millfield|Royal Navy Meet|23-Feb-20|
 |200m|Jessica Wooddisse|2.38.78|Sheffield|ASA Nationals|29-Oct-21|
 
@@ -132,9 +132,9 @@ Mens 55-59
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Mark Partridge|32.49|Millfield|Royal Navy Meet|13-May-18|
+|50m|Sean Kinsey|31.24|Millfield|Inter County Relays|10-Nov-19|
 |100m||||||
-|200m||||||
+|200m|Sean Kinsey|2.53.15|Sheffield|ASA Nationals|29-Oct-22|
 
 Womens 50-54
 ---

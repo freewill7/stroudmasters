@@ -161,9 +161,9 @@ Womens 45-49
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m|Jessica Wooddisse|31.37|Millfield|Inter County Relays|14-Nov-21|
-|100m|Jessica Wooddisse|1.06.76|Newport|Welsh SC Masters|27-Nov-21|
+|100m|Jessica Wooddisse|1.06.25|Millfield|Royal Navy Meet|27-Feb-22|
 |200m|Jessica Wooddisse|2.19.84|Sheffield|ASA Nationals|30-Oct-21|
-|400m|Jessica Wooddisse|4.50.17|Sheffield|ASA Nationals|30-Oct-21|
+|400m|Jessica Wooddisse|4.50.01|Millfield|Royal Navy Meet|27-Feb-22|
 |800m|Jessica Wooddisse|9.57.72|Sheffield|ASA Nationals|31-Oct-21|
 |1500m|Jessica Wooddisse|18.53.92|Sheffield|ASA Nationals|29-Oct-21|
 
@@ -201,7 +201,7 @@ Mens 55-59
 |200m|Sean Kinsey| 2.13.54|Sheffield|ASA Nationals|26-Oct-19|
 |400m|Sean Kinsey|4.44.52|Gloucester|Open Meet|31-Mar-19|
 |800m|Sean Kinsey|9.50.90|Sheffield|ASA Nationals|27-Oct-19|
-|1500m| | | | | |
+|1500m|Sean Kinsey|19.36.56|Sheffield|ASA Nationals|28-Oct-22|
 
 Womens 55-59
 ---
@@ -245,9 +245,9 @@ Mens 65-69
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m|Geoffrey Baxter|35.28|Gloucester|Open Meet|23-Apr-06|
-|100m| | | | | |
+|100m|Andrew Lelliott|1.29.57|Millfield|SW Region Champs|09-Oct-22|
 |200m| | | | | |
-|400m|Andrew Lelliot|6.56.75|Weston|South West Champs|29-Sep-19|
+|400m|Andrew Lelliot|6.53.66|Millfield|SW Region Champs|09-Oct-22|
 |800m| | | | | |
 |1500m| | | | | |
 

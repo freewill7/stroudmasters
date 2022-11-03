@@ -21,7 +21,7 @@ Mens 18-24
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m|William Lee|39.61|Millfield|Royal Navy Meet|28-Mar-10|
-|100m|Jack Powis|1.32.12|Gloucester|Open Meet|31-Mar-19|
+|100m|Jack Powis|1.29.23|Millfield|Royal Navy Meet|27-Feb-22|
 |200m| | | | | |
 
 Womens 18-24

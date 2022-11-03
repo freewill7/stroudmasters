@@ -134,7 +134,7 @@ Mens 55-59
 |---|---|---|---|---|---|
 |50m|Mark Partridge|35.37|Gloucester|Open Meet|31-Mar-19|
 |100m|Mark Partridge|1.20.30|Stafford|Staffordshire Masters|17-Mar-18|
-|200m||||||
+|200m|Mark Partridge|3.06.94|Sheffield|ASA Nationals|30-Oct-22|
 
 Womens 55-59
 ---

@@ -151,7 +151,7 @@ Womens 45-49
 |100m| | | | | |
 |200m|Jessica Wooddisse|2.22.58|Swansea|Welsh Masters Champs|01 Mar 20|
 |400m|Jessica Wooddisse|4.55.34|Crawley|SE Region Champs|18 Jan 20|
-|800m| | | | | |
+|800m|Jessica Wooddisse|10.04.40|Swansea|Welsh Masters Champs|6 Mar 22|
 |1500m|Jessica Wooddisse|19.07.74|Swansea|Welsh Masters Champs|29 Feb 20|
 
 Mens 50-54

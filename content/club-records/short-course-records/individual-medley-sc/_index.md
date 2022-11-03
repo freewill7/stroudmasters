@@ -110,7 +110,7 @@ Womens 45-49
 |---|---|---|---|---|---|
 |100m|Jessica Wooddisse|1.17.64|Millfield|Royal Navy Meet|23-Feb-20|
 |200m||||||
-|400m||||||
+|400m|Jessica Partridge|5.38.70|Sheffield|ASA Nationals|29-Oct-21|
 
 Mens 50-54
 ---
