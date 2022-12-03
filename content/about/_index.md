@@ -1,12 +1,8 @@
 Stroud Masters Swimming Club operates for swimmers of 18 years and older.
 
-Annual membership of the club in 2021 is £45, membership forms can be found in the [Documents](/about/#Documents) section below.
+Annual membership of the club in 2022 is £45, membership forms can be found in the [Documents](/about/#Documents) section below.
 
 Details of sessions and the per-session costs can be found in the [Sessions](/training/) section.
-
-<!--
-Due to the ongoing COVID-19 situation (and subsequent restriction on pool availability and capacity) we are not taking on any new members at the current time. If you'd like to register an interest in joining the club then you can do so through [Contact Us](/contact-us/) page and we'll contact you when the situation changes.
--->
 
 If you are thinking of joining but you’re not sure whether masters swimming is for you, new swimmers are welcomed at a guest rate for 3 sessions. If you’d like to come along, contact us through the [Contact Us](/contact-us/) page.
 
