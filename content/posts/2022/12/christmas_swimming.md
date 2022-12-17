@@ -7,8 +7,8 @@ Hello Everyone
 
 A number of sessions have been cancelled over the Christmas and New Year break due to Archway and Stratford Park closures. The timetable is as follows:
 
-All sessions as normal up to and including Friday 23rd December 
-
+- Monday 12th 6.30 am Archway - **cancelled due to weather**
+- Sessions up to including Friday 23rd December - as normal
 - Sunday 25th 7.30 am Stratford Park - **cancelled**
 - Monday 26th 6.30 am Archway - **cancelled**
 - Tuesdays 27th 6.30 pm Archway - **cancelled**

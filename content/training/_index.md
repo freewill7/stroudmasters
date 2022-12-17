@@ -1,3 +1,8 @@
+---
+aliases:
+    - /training/
+    - /training/sessions/
+---
 # Training
 
 Training plans for previous sessions can be found [here](/training/session-plans).
