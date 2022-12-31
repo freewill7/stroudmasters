@@ -39,3 +39,4 @@ Stroud Masters is run though a committee. For more details click [here](/about/c
 History
 ---
 A brief history of the club can be found [here](/about/history).
+
