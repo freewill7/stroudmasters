@@ -7,7 +7,7 @@ theme = "mainroad"
   posts = "/:year/:month/:title/"
 
 [Params]
-  subtitle = "A friendly adult swimming club for all things swimming"
+  subtitle = "Swimming in the five valleys"
   icon = "/images/2014/12/newlogosmall.png"
   readmore = true
 
