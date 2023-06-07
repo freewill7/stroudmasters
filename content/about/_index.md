@@ -24,9 +24,9 @@ Documents
 
 Risk Assessments
 ---
-- [Club Risk Assessment 2021](/images/2021/11/club_risk_assessment_nov_2021.pdf)
-- [Archway (Mornings) Risk Assessment 2021](/images/2021/11/smsc_archway_mornings_risk_assessment_2021.pdf)
-- [Stretchcordz 2021](/images/2021/11/stretchcordz_2021.pdf)
+- [Club Risk Assessment 2023](/images/2023/06/Club_Risk_Assessment_May_2023.pdf)
+- [Archway (Mornings) Risk Assessment 2023](/images/2023/06/SMSC_Archway_Pool_Mornings_Risk_Assessment_2023.pdf)
+- [Stretchcordz 2023](/images/2023/06/Stretchcordz_2023_v4.pdf)
 
 Coaching
 ---
