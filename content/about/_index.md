@@ -14,8 +14,7 @@ If you are thinking of joining but you’re not sure whether masters swimming is
 
 Documents
 ---
-- [Draft Constitution 2023](/images/2022/11/draft_constitution_february_2023.pdf) (November 2022)
-- [Constitution 2022](/images/2022/02/constitution_february_2022.pdf) (February 2022)
+- [Constitution 2023](/images/2023/06/constitution_february_2023.pdf) (June 2023)
 - [Insurance Certificate](/images/2021/05/insurance_certificate.pdf) (May 2021)
 - [Member Rules](/images/2018/04/member_rules_2018_april.pdf) (April 2018)
 - [Common Coaching Terms](/images/2018/04/common_coaching_2018_april.pdf) (April 2018)
