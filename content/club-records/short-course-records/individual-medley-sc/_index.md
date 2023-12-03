@@ -108,8 +108,8 @@ Womens 45-49
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|100m|Jessica Wooddisse|1.17.64|Millfield|Royal Navy Meet|23-Feb-20|
-|200m||||||
+|100m|Jessica Partridge|1.17.39|Millfield|Royal Navy Meet|23-Feb-23|
+|200m|Jseeica Partridge|2.40.78|Sheffield|ASA Nationals|28-Oct-23|
 |400m|Jessica Partridge|5.38.70|Sheffield|ASA Nationals|29-Oct-21|
 
 Mens 50-54
@@ -148,8 +148,8 @@ Mens 60-64
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|100m||||||
-|200m||||||
+|100m|Mark Partridge|1.18.98|Millfield|Royal Navy Meet|26-Feb-23|
+|200m|Mark Partridge|3.00.83|Sheffield|ASA Nationals|28-Oct-23|
 |400m||||||
 
 Womens 60-64

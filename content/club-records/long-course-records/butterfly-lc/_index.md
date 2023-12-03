@@ -108,9 +108,9 @@ Womens 45-49
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Jessica Wooddisse|34.30|Crawley|SE Region Champs|18 Jan 20|
+|50m|Jessica Wooddisse|33.27|Tempere|European Masters Games|08 Jul 23|
 |100m|Jessica Wooddisse|1.15.06|Swansea|Welsh Masters Champs|01 Mar 20|
-|200m|Jessica Wooddisse|2.45.01|Aberdeen|British Masters LC|18 Jun 22|
+|200m|Jessica Wooddisse|2.43.53|Sheffield|British LC Champs|03 Jun 23|
 
 Mens 50-54
 ---
@@ -143,3 +143,20 @@ Womens 55-59
 |50m| | | | | |
 |100m| | | | | |
 |200m| | | | | |
+
+Mens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m|Mark Partridge|34.57|Sheffield|British LC Champs|04 Jun 23|
+|100m| | | | | |
+|200m| | | | | |
+
+Womens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m| | | | | |
+|100m| | | | | |
+|200m| | | | | |
+

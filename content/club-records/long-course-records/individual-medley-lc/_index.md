@@ -95,8 +95,8 @@ Womens 45-49
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|200m||||||
-|400m||||||
+|200m|Jessica Partridge|2.45.64|Sheffield|British LC Champs|04 Jun 23|
+|400m|Jessica Partridge|5.43.38|Sheffield|British LC Champs|02 Jun 23|
 
 Mens 50-54
 ---
@@ -119,7 +119,21 @@ Mens 55-59
 |200m||||||
 |400m| Sean Kinsey|5.21.70| Swansea| Welsh Open Masters|14 Jun 19|
 
-Womens 50-54
+Womens 55-59
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|200m||||||
+|400m||||||
+
+Mens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|200m|Mark Partridge|3.13.12|Tampere|European Masters Games|09 Jun 23|
+|400m||||||
+
+Womens 60-64
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|

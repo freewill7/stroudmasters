@@ -197,4 +197,26 @@ Womens 55-59
 |400m| | | | | |
 |800m| | | | | |
 |1500m| | | | | |
- 
+
+Mens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m|Mark Partridge|30.76|Sheffield|British LC Champs|03 Jun 23|
+|100m| | | | | |
+|200m| | | | | |
+|400m| | | | | |
+|800m| | | | | |
+|1500m| | | | | |
+
+Womens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m| | | | | |
+|100m| | | | | |
+|200m| | | | | |
+|400m| | | | | |
+|800m| | | | | |
+|1500m| | | | | |
+

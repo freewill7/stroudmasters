@@ -108,7 +108,7 @@ Womens 45-49
 |---|---|---|---|---|---|
 |50m||||||
 |100m||||||
-|200m|Jessica Wooddisse|3.16.68|Crawley|SW Region Champs|18 Jan 20|
+|200m|Jessica Wooddisse|3.14.49|Swansea|Welsh Open Meet|05 Mar 23|
 
 Mens 50-54
 ---
@@ -135,6 +135,22 @@ Mens 55-59
 |200m|Mark Partridge|3.19.91|Swansea|British Masters LC|14 Jun 19|
 
 Womens 50-54
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m||||||
+|100m||||||
+|200m||||||
+
+Mens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m|Mark Partridge|37.24|Sheffield|British LC Champs|02 Jun 23|
+|100m|Mark Partridge|1.28.43|Sheffield|British LC Champs|03 Jun 23|
+|200m|Mark Partridge|3.34.58|Tampere|European Masters Games|08 Jul 23|
+
+Womens 60-64
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|

@@ -109,8 +109,8 @@ Womens 45-49
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m||||||
-|100m|Tracy Gwyer|1.47.12|Gloucester|Open Meet|29-Mar-09|
-|200m||||||
+|100m|Jessica Partridge|1.21.44|Wolverhampton|Shrops Open Meet|21-May-23|
+|200m|Jessica Partridge|2.50.68|Millfield|South West Champs|08-Oct-23|
 
 Mens 50-54
 ---
@@ -148,7 +148,7 @@ Mens 60-64
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|David White|46.35|Horfield|G&S County Champs|14-Sep-08|
+|50m|Mark Partridge|37.58|Wolverhampton|Shrops Open Meets|27-Oct-23|
 |100m||||||
 |200m||||||
 

@@ -143,3 +143,19 @@ Womens 50-54
 |50m||||||
 |100m||||||
 |200m||||||
+
+Mens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m|Mark Partridge|34.03|Newport|Swim Wales SC Meet|2-Dec-23|
+|100m||||||
+|200m||||||
+
+Womens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m||||||
+|100m||||||
+|200m||||||

@@ -143,3 +143,19 @@ Womens 50-54
 |50m| | | | | |
 |100m| | | | | |
 |200m| | | | | |
+
+Mens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m|Mark Partridge|38.08|Swansea|Welsh Open Meet|04 Mar 23|
+|100m|Mark Partridge|1.26.04|Crawley|SE Regional Champs|21 Jan 23|
+|200m| | | | | |
+
+Womens 60-64
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m| | | | | |
+|100m| | | | | |
+|200m| | | | | |

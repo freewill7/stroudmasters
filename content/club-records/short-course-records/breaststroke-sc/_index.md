@@ -108,8 +108,8 @@ Womens 45-49
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Nikki Gaunt|48.42|Horfield|G&S County Champs|11-Sept-11|
-|100m|Nikki Gaunt|1.49.16|Horfield|G&S County Champs|11-Sept-11|
+|50m|Jessica Partridge|42.38|Millfield|Inter County Relays|12-Nov-23|
+|100m|Jessica Partridge|1.29.21|Millfield|South West Champs|08-Oct-23|
 |200m| | | | | |
 
 Mens 50-54
@@ -148,8 +148,8 @@ Mens 60-64
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|David White|46.10|Horfield|G&S County Champs|14-Sep-08|
-|100m|David White|1.45.31|Horfield|G&S County Champs|14-Sep-08|
+|50m|Mark Partridge|36.06|Millfield|Royal Navy Meet|21-May-23|
+|100m|Mark Partridge|1.22.53|Sheffield|ASA Nationals|14-Sep-08|
 |200m| | | | | |
 
 Womens 60-64

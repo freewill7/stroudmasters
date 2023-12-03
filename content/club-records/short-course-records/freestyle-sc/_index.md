@@ -220,8 +220,8 @@ Mens 60-64
 
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|David White|39.31|Horfield|G&S County Champs|14-Sep-08|
-|100m|David White|1.30.09|Horfield|G&S County Champs|14-Sep-08|
+|50m|Mark Partridge|29.70|Sheffield|ASA Nationals|27-Oct-23|
+|100m|Mark Partridge|1.10.03|Millfield|Royal Navy Meet|26-Feb-23|
 |200m|David White|3.21.40|Horfield|G&S County Champs|14-Sep-08|
 |400m| | | | | |
 |800m| | | | | |
