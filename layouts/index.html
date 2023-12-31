@@ -1,0 +1,9 @@
+{{ define "main" }}
+<main class="myhome" role="myhome">
+  {{- with .Content }}
+  <div class="content main__content clearfix">
+    {{ . }}
+  </div>
+  {{ end }}
+</main>
+{{ end}}

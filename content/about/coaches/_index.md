@@ -10,4 +10,3 @@ Other sessions are coached by members
 - Mark Partridge
 - Lorraine Savagar
 - Kelly Young
-- William Lee

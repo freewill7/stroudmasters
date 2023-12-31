@@ -10,10 +10,29 @@ theme = "mainroad"
   subtitle = "Swimming in the five valleys"
   icon = "/images/2014/12/newlogosmall.png"
   readmore = true
+#  mainSections = ["posts"]
+
+[Params.sidebar]
+  home = "right"
+  list = "right"
+  single = false
+  widgets = [ "recent", "search", "social" ]
+
+[Params.widgets.social]
+  facebook = "1408505989448473"
+
+#[Params.widgets.social.custom]
+#  title = "Facebook"
+#  url = "https://www.facebook.com/groups/1408505989448473/"
+#  rel = false
 
 [[menu.main]]
   name = "Home"
   url = "/"
+  weight = 1
+[[menu.main]]
+  name = "News"
+  url = "/posts"
   weight = 1
 [[menu.main]]
   name = "About"
@@ -40,10 +59,10 @@ theme = "mainroad"
 #  name = "Partners"
 #  url = "/partners/"
 #  weight = 7
-[[menu.main]]
-  name = "Facebook"
-  url = "https://www.facebook.com/groups/1408505989448473/"
-  weight = 8
+#[[menu.main]]
+#  name = "Facebook"
+#  url = "https://www.facebook.com/groups/1408505989448473/"
+#  weight = 8
 
 [[menu.main]]
   parent = "club-records"

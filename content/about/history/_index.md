@@ -1,4 +1,4 @@
-Stroud Masters Swimming Club is a friendly club for adult swimmers (18 years plus). The Masters Section of Stroud Swimming Club originally evolved in 1989 from a few parents who felt it a good idea to enjoy some of the benefits from structured swimming that their children enjoyed as members of a swimming club.
+Stroud Masters Swimming Club is a friendly club for adult swimmers (18 years plus). The Masters Section of [Stroud Swimming Club](https://uk.teamunify.com/team/recstsc/page/about/club-history) originally evolved in 1989 from a few parents who felt it a good idea to enjoy some of the benefits from structured swimming that their children enjoyed as members of a swimming club.
 
 With the assistance of Brian Harrison, SSC’s Chief Coach, water time was negotiated with SDC and 1 1/2 hours was allocated from 7.30 a.m. on a Sunday Morning to the Masters Section. With a membership of 10 adults Stroud Masters was born and Sunday Morning training sessions began.
 

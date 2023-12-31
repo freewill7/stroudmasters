@@ -1,6 +1,7 @@
 ---
 text-align: left
 ---
+# Calendar
 Below are upcoming competitions that members may be interested it. For more details contact Mark (see [Contact Us](/contact-us)).
 
 Last updated 3rd November 2019

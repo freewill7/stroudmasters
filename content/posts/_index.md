@@ -1,0 +1,6 @@
+---
+aliases:
+    - /news/
+    - /posts/
+---
+# News
