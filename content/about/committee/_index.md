@@ -15,7 +15,8 @@ If you have any information for this club website or discover any issues when us
 | Will Lee | Website
 | Nick Bishop | Committee Member |
 | Andrew Lelliot | Committee Member |
-| Jack Powis | Committee Member |
+| Richard Percival | Committee Member |
+| Mike Joffe | Committee Member |
 
 Role descriptions
 ---
