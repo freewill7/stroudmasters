@@ -7,8 +7,8 @@ theme = "mainroad"
   posts = "/:year/:month/:title/"
 
 [Params]
-  subtitle = "Swimming in the five valleys"
-  icon = "/images/2014/12/newlogosmall.png"
+  logo.subtitle = "Swimming in the five valleys"
+  logo.image = "/images/2014/12/newlogosmall.png"
   readmore = true
 #  mainSections = ["posts"]
 
