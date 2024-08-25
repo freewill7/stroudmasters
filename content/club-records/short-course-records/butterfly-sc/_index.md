@@ -148,7 +148,7 @@ Mens 60-64
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Mark Partridge|34.03|Newport|Swim Wales SC Meet|2-Dec-23|
+|50m|Mark Partridge|33.42|Millfield|Royal Navy Meet|18-Feb-24|
 |100m||||||
 |200m||||||
 

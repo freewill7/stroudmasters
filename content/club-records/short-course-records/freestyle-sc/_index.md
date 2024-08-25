@@ -220,10 +220,10 @@ Mens 60-64
 
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Mark Partridge|29.70|Sheffield|ASA Nationals|27-Oct-23|
+|50m|Mark Partridge|29.69|Millfield|Royal Navy|18-Feb-24|
 |100m|Mark Partridge|1.10.03|Millfield|Royal Navy Meet|26-Feb-23|
-|200m|David White|3.21.40|Horfield|G&S County Champs|14-Sep-08|
-|400m| | | | | |
+|200m|Sean Kinsey|2.18.0|Gloucester|Open Meet|12-May-24|
+|400m|Sean Kinsey|4.59.11|Gloucester|Open Meet|12-May-24|
 |800m| | | | | |
 |1500m| | | | | |
 
@@ -252,6 +252,30 @@ Mens 65-69
 |1500m| | | | | |
 
 Womens 65-69
+---
+
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m| | | | | |
+|100m| | | | | |
+|200m| | | | | |
+|400m| | | | | |
+|800m| | | | | |
+|1500m| | |
+
+Mens 70-74
+---
+
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m|Andrew Lelliott|38.47|Gloucester|Open Meet|12-May-24|
+|100m|Andrew Lelliott|1.29.74|Gloucester|Open Meet|12-May-24|
+|200m| | | | | |
+|400m| | | | | |
+|800m| | | | | |
+|1500m| | | | | |
+
+Womens 70-74
 ---
 
 |Distance|Swimmer|Time|Location|Competition|Date|

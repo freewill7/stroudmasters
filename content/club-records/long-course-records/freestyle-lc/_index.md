@@ -203,7 +203,7 @@ Mens 60-64
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m|Mark Partridge|30.76|Sheffield|British LC Champs|03 Jun 23|
-|100m| | | | | |
+|100m|Mark Partridge|1.14.0|Swansea|Welsh Open Meet|02 Mar 24|
 |200m| | | | | |
 |400m| | | | | |
 |800m| | | | | |

@@ -110,7 +110,7 @@ Womens 45-49
 |---|---|---|---|---|---|
 |50m|Jessica Partridge|42.38|Millfield|Inter County Relays|12-Nov-23|
 |100m|Jessica Partridge|1.29.21|Millfield|South West Champs|08-Oct-23|
-|200m| | | | | |
+|200m|Jessica Partridge|3.08.87|Coventry|W Midland Champs|30-Mar-24|
 
 Mens 50-54
 ---
@@ -169,6 +169,22 @@ Mens 65-69
 |200m| | | | | |
 
 Womens 65-69
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m| | | | | |
+|100m| | | | | |
+|200m| | | | | |
+
+Mens 70-74
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|50m|Andrew Lelliott|47.99|Gloucester|Open Meet|12-May-24|
+|100m| | | | | |
+|200m| | | | | |
+
+Womens 70-74
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|

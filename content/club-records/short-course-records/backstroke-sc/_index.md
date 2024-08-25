@@ -148,7 +148,7 @@ Mens 60-64
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Mark Partridge|37.58|Wolverhampton|Shrops Open Meets|27-Oct-23|
+|50m|Mark Partridge|37.15|Bingham|CABSC Open Meet|24-Mar-24|
 |100m||||||
 |200m||||||
 

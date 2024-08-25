@@ -150,7 +150,7 @@ Mens 60-64
 |---|---|---|---|---|---|
 |100m|Mark Partridge|1.18.98|Millfield|Royal Navy Meet|26-Feb-23|
 |200m|Mark Partridge|3.00.83|Sheffield|ASA Nationals|28-Oct-23|
-|400m||||||
+|400m|Sean Kinsey|5.35.45|Gloucester|Open Meet|12-May-24|
 
 Womens 60-64
 ---
@@ -169,6 +169,22 @@ Mens 65-69
 |400m||||||
 
 Womens 65-69
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|100m||||||
+|200m||||||
+|400m||||||
+
+Mens 70-74
+---
+|Distance|Swimmer|Time|Location|Competition|Date|
+|---|---|---|---|---|---|
+|100m|Andrew Lelliott|1.49.26|Gloucester|Open Meet|12-May-24|
+|200m||||||
+|400m||||||
+
+Womens 70-74
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
