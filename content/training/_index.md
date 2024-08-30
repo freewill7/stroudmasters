@@ -12,7 +12,6 @@ As of 17th May 2021, times of sessions are:
 |Day|Time|Location|
 |---|---|---|
 |Monday|06:30-07.30|Archway School, Stroud ([map](/training#Archway-School-Directions))|
-|Tuesday|18:30-20.00|Archway School, Stroud|
 |Wednesday|06:30-07.30|Archway School, Stroud|
 |Friday|06:30-07.30|Archway School, Stroud|
 |Sunday|07:30-09.00|Stratford Park Leisure Centre, Stroud|
