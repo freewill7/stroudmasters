@@ -1,5 +1,9 @@
 Volunteer Coaches
 ---
+Tuesday evening is coached by 
+
+- Alice Pinney
+
 Sunday sessions are coached by members
 
 - Jessica Wooddisse

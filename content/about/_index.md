@@ -16,7 +16,7 @@ If you’ve a disability – and we understand not all disabilities are visible 
 ## Your Coaches
 We’ll help you feel safe in the water, as well as helping you develop and challenge yourself.  
 
-We have a Sunday morning session where our sessions are facilitated – still on poolside – by some of our more experienced members who volunteer their time to support our swimmers.  We also have three early morning sessions.
+We have Tuesday evening and Sunday morning sessions that are facilitated on poolside by some of our more experienced members who volunteer their time to support our swimmers.  We also have three early morning sessions.
 
 Even though we’ve only four lanes, there’s a lane to suit everyone.
 
