@@ -27,7 +27,7 @@ Annual membership of the club in 2024 is £45.  Our membership form can be found
 
 We don’t change our session fees often, but occasionally things outside our control mean that we have to.  At all of our sessions you can pay-as-you-go (aka our occasional swim fee), or monthly, either as a once-a-week swim, twice-a-week swim, or three times-a-week swim.  This reduces the price slightly, but due to pool costs it does mean you can’t carry over unused sessions into the following week.  More on our sessions, including times, can be found in our Sessions section.
 
-You may have already read it on our Home Page (in which case hopefully you’re still keen), but if you haven’t and you aren’t sure whether we, or Masters swimming, is for you, the first three swims are on us (a kind of ‘try before you buy’), so what’s not to like?  If you want come along and get wet, be active, and meet new friends please do contact us through our [Contact Us](/contact-us) page.
+You may have already read it on our Home Page (in which case hopefully you’re still keen), but if you haven’t and you aren’t sure whether we, or Masters swimming, is for you, the first swim is on us (a kind of ‘try before you buy’), so what’s not to like?  If you want come along and get wet, be active, and meet new friends please do contact us through our [Contact Us](/contact-us) page.
 
 ## Your Committee
 No club can run without its [committee](/about/committee), and our club is no different.  Where we are different is that we are all swimmers, so it’s rare for one or more of us not to be at a session... so if you’d like to speak to one of us, please do so... but maybe not in the middle of our set!  

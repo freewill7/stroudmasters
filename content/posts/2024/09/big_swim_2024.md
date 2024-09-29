@@ -11,6 +11,6 @@ Results:
 - 3.8k - Jessica 2nd, Mark 2nd
 - 1.9k - Alan 3rd
 
-![Alice, Sean, Mark, Jessica, Andy, Nick](/images/2024/09/big_swim_2024.jpg)
+![Alice, Sean, Mark, Jessica, Alan, Nick](/images/2024/09/big_swim_2024.jpg)
 
 <!--more-->
