@@ -5,8 +5,6 @@ aliases:
 ---
 # Training
 
-Training plans for previous sessions can be found [here](/training/session-plans).
-
 As of 4th September 2024, times of sessions are:
 
 |Day|Time|Location|
