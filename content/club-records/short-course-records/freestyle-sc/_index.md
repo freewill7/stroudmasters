@@ -67,10 +67,10 @@ Womens 25-29
 |---|---|---|---|---|---|
 |50m|Kerrie Aldridge|31.71|Horfield|G&S County Champs|09-Sep-12|
 |100m|Kerrie Aldridge|1.08.55|Horfield|G&S County Champs|09-Sep-12|
-|200m| | | | | |
+|200m|Alice Pinney|2.32.4|Sheffield|ASA Nationals|25-Oct-24|
 |400m|Kerrie Aldridge|5.00.10|Gloucester|Open Meet|15-Apr-12|
-|800m| | | | | |
-|1500m| | | | | |
+|800m|Alice Pinney|11.02.30|Sheffield|ASA Nationals|25-Oct-24|
+|1500m|Alice Pinney|21.04.98|Sheffield|ASA Nationals|25-Oct-24|
 
 Mens 30-34
 ---
@@ -222,8 +222,8 @@ Mens 60-64
 |---|---|---|---|---|---|
 |50m|Mark Partridge|29.69|Millfield|Royal Navy|18-Feb-24|
 |100m|Mark Partridge|1.10.03|Millfield|Royal Navy Meet|26-Feb-23|
-|200m|Sean Kinsey|2.18.0|Gloucester|Open Meet|12-May-24|
-|400m|Sean Kinsey|4.59.11|Gloucester|Open Meet|12-May-24|
+|200m|Sean Kinsey|2.16.7|Sheffield|ASA Nationals|25-Oct-24|
+|400m|Sean Kinsey|4.52.22|Sheffield|ASA Nationals|12-May-24|
 |800m| | | | | |
 |1500m| | | | | |
 

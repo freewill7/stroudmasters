@@ -150,7 +150,7 @@ Mens 60-64
 |---|---|---|---|---|---|
 |50m|Mark Partridge|36.06|Millfield|Royal Navy Meet|21-May-23|
 |100m|Mark Partridge|1.22.53|Sheffield|ASA Nationals|14-Sep-08|
-|200m| | | | | |
+|200m|Mark Partridge|3.23.78|Sheffield|ASA Nationals|25-Oct-24|
 
 Womens 60-64
 ---
