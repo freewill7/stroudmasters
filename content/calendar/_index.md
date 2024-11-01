@@ -4,23 +4,27 @@ text-align: left
 # Calendar
 Below are upcoming competitions that members may be interested it. For more details contact Mark (see [Contact Us](/contact-us)).
 
-Last updated 3rd November 2019
+Last updated 1st November 2024
 
-|When|What|Where|Closing Date|Pool Length|Online entry via ASA website|
-|---|---|---|---|---|---|
-|18-19th January|South East Championships|Crawley|8th January|50m|Not yet|
-|23rd February|Royal Navy Meet|Millfield|7th February|25m|Yes| 
-|7th March|Bracknell|Bracknell|13th Feburary|25m|Yes|
-|29th February/1st March|Swim Wales Masters Meet|Swansea|TBA|50m|Not yet|
-|24-26th April|LC Nationals|Sheffield|TBA|50m|Not yet (entry times required)|
-|17th May|Gloucester Masters Open Meet|GL1 Gloucester|TBA|25m|Not yet|
-|28th May/7th June|European LC Championships|Budapest|TBA|50m|Not yet (entry times required)|
-|16th August|Event Logic|Lake 62|TBA|Open Water|Yes|
-|5th September|National Open Water Champs|Peterborough|TBA|Open Water|Not yet|
-|September|GCASA Championships|TBA|TBA|25m|Not yet|
-|September|South West Sprints|TBA|TBA|25m|Yes|
-|24/25th October|ASA Masters & SAG Champs|Sheffield|TBA|25m|Not yet (entry times required)|
-|November|Inter County Relays|TBA|TBA|25m|By invitation by county coach|
+||When|What|Where|Closing Date|Pool Length|Online entry via ASA website|
+|---|---|---|---|---|---|---|
+||18-19th January 2024|SE Regional LC Champs|K2 Crawley|1st January 2025|50m|Yes|
+||23rd February|Royal Navy Meet|Millfield|14th February 2025|25m|Yes| 
+||1-2nd March 2025|Swim Wales Masters Meet|Swansea|TBA|50m|Not yet|
+||8th March 2025|West Midlands Masters Championship|Coventry|TBA|25m|Not yet|
+||TBA|Swim England Long Course Nationals|TBA|TBA|50m|Not yet (entry times required)|
+||27th April 2025|Gloucester Masters Open Meet|GL1 Gloucester|TBA|25m|Not yet|
+||26th July - 22nd August 2025|World Championships (pool and OW)|Singapore|TBA|50m|Not yet (entry times required)|
+:fish:|14th June 2025|Big Swim|Lake 32||OW|[Yes](https://dbmax.co.uk/events/category/swimming)|
+:fish:|June 2025|South West Regional Open Water|Lake 86|TBA|OW|Not yet|
+:fish:|27 July 2025|Swim England Open Water Championships|Sheffield|TBA|OW|Not yet|
+:fish:|16th August 2025|LPS Events|Lake 62|TBA|OW|Not yet|
+:fish:|6th September 2025|Big Swim|Lake 32||OW|[Yes](https://dbmax.co.uk/events/category/swimming)|
+||September 2025|South West Sprints|TBA|TBA|25m|Not yet|
+||24-26th October 2025|Swim England Short Course Championships|Sheffield|TBA|25m|Not yet (entry times required)|
+||November 2025|Inter County Relays|TBA|Selection by county coach|25m|NA|
+||10th-16th December 2025|European Short Course Championships (pool and open water)|Szczecin, Poland|TBA|25m|NA|
+
 
 There are lots more pool and open water events at [swimming.org](http://www.swimming.org/calendar/all/?discipline=masters-swimming).
 
