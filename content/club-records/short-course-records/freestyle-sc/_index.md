@@ -175,7 +175,7 @@ Mens 50-54
 |50m|Mark Partridge|27.53|Sheffield|ASA Nationals|25-Oct-13|
 |100m|Mark Partridge|1.03.56|Millfield|Royal Navy Meet|24-Mar-13|
 |200m|Mark Partridge|2.22.53|Bracknell|Open Meet|02-Mar-13|
-|400m|Sean Kinsey|4.52.66|Gloucester|Open Meet|23-Apr-17|
+|400m|Sean Kinsey|4.32.32|Sheffield|ASA Nationals|2016|
 |800m|Mark Partridge|10.39.82|Barnet|Open Meet|06-Jul-13|
 |1500m|Mark Gardner|26.16.65|Gloucester|SW Region Champs|03-Jul-10|
 
@@ -196,7 +196,7 @@ Mens 55-59
 
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Mark Partridge|28.66|Millfield|Royal Navy Meet|13-May-18|
+|50m|Sean Kinsey|27.61|Millfield|Inter County Relays|10-Nov-19|
 |100m|Mark Partridge|1.07.23|Millfield|Royal Navy Meet|13-May-18|
 |200m|Sean Kinsey| 2.13.54|Sheffield|ASA Nationals|26-Oct-19|
 |400m|Sean Kinsey|4.44.52|Gloucester|Open Meet|31-Mar-19|
