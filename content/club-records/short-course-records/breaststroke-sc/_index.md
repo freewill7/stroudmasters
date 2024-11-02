@@ -181,7 +181,7 @@ Mens 70-74
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m|Andrew Lelliott|47.99|Gloucester|Open Meet|12-May-24|
-|100m| | | | | |
+|100m|Andrew Lelliott|1.52.60|Millfield|South West Champs|13-Oct-24|
 |200m| | | | | |
 
 Womens 70-74
