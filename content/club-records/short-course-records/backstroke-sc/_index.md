@@ -108,7 +108,7 @@ Womens 45-49
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m||||||
+|50m|Jessica Partridge|38.59|Millfield|SW Champs|13-Oct-24|
 |100m|Jessica Partridge|1.21.44|Wolverhampton|Shrops Open Meet|21-May-23|
 |200m|Jessica Partridge|2.50.68|Millfield|South West Champs|08-Oct-23|
 

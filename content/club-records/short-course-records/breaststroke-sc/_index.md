@@ -164,7 +164,7 @@ Mens 65-69
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Andrew Lelliott|47.40|Weston|South West Champs|29-Sep-19|
+|50m|Andrew Lelliott|45.88|Millfield|Intercounty Relays|10-Nov-19|
 |100m| | | | | |
 |200m| | | | | |
 

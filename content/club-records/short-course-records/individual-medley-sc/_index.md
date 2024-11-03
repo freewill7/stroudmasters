@@ -132,7 +132,7 @@ Mens 55-59
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|100m|Mark Partridge|1.17.30|Gloucester|Open Meet|31-Mar-19|
+|100m|Mark Partridge|1.16.26|Gloucester|Open Meet|31-Mar-19|
 |200m|Mark Partridge|2.54.42|Sheffield|ASA Nationals|26-Oct-19|
 |400m|Sean Kinsey|5.19.00|Gloucester|Open Meet|31-Mar-19|
 

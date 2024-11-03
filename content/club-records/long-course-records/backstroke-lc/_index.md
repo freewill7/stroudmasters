@@ -135,7 +135,7 @@ Mens 55-59
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m|Mark Partridge|37.06|Plymouth|British Masters LC|10 Jun 18|
-|100m|Richard Percival|1.25.50|London|London Open Meet|24 Mar 19|
+|100m|Mark Partridge|1.25.50|London|London Open Meet|24 Mar 19|
 |200m| | | | | |
 
 Womens 50-54
