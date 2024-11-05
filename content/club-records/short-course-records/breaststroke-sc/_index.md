@@ -149,7 +149,7 @@ Mens 60-64
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
 |50m|Mark Partridge|36.06|Millfield|Royal Navy Meet|21-May-23|
-|100m|Mark Partridge|1.22.53|Sheffield|ASA Nationals|23-Oct-23|
+|100m|Mark Partridge|1.22.53|Sheffield|ASA Nationals|27-Oct-23|
 |200m|Mark Partridge|3.23.78|Sheffield|ASA Nationals|25-Oct-24|
 
 Womens 60-64
