@@ -3,6 +3,9 @@ aliases:
     - /about/
     - /clubinfo/
 ---
+
+:warning: **Please Note:** We are currently operating a waiting list for new members but would like to hear from you if you are interested in joining. Please contact [Mark](/contact-us) who will be pleased to talk to you about the club and when we are likely to be taking on new members again.
+
 # About
 Welcome to Stroud Masters.  We’re a friendly, open, and inclusive club.    
 
@@ -27,7 +30,9 @@ Annual membership of the club in 2024 is £45.  Our membership form can be found
 
 We don’t change our session fees often, but occasionally things outside our control mean that we have to.  At all of our sessions you can pay-as-you-go (aka our occasional swim fee), or monthly, either as a once-a-week swim, twice-a-week swim, or three times-a-week swim.  This reduces the price slightly, but due to pool costs it does mean you can’t carry over unused sessions into the following week.  More on our sessions, including times, can be found in our [Sessions](/training) section.
 
+<!---
 If you want come along and get wet, be active, and meet new friends please do contact us through our [Contact Us](/contact-us) page.
+--->
 
 ## Your Committee
 No club can run without its [committee](/about/committee), and our club is no different.  Where we are different is that we are all swimmers, so it’s rare for one or more of us not to be at a session... so if you’d like to speak to one of us, please do so... but maybe not in the middle of our set!  

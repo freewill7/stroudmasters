@@ -14,4 +14,6 @@ We participate in swimming (pools and open water).  Some of our sessions are coa
 
 Whether you are looking to swim socially, you’re starting out, returning from a long break e.g. due to work/family commitments, or fancy your hand at competition – local or further afield – [we’ve something for you](/about).  
 
+<!---
 We think of ourselves as the small friendly club with a big presence.  We try to cater for everyone and are always looking to improve.  So, if you want to get wet, get active, and meet new friends, come, and say ‘hi’.  
+--->
