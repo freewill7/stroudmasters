@@ -40,8 +40,9 @@ No club can run without its [committee](/about/committee), and our club is no di
 Documents
 ---
 - [Constitution 2023](/images/2023/06/constitution_february_2023.pdf) (June 2023)
+- [Draft Constitution 2025](/images/2024/11/Constitution_February_2025.pdf)
 - [Insurance Certificate](/images/2021/05/insurance_certificate.pdf) (May 2021)
-- [Member Rules](/images/2018/04/member_rules_2018_april.pdf) (April 2018)
+- [Member Rules](/images/2024/11/Member_Rules_2025.pdf) (November 2024)
 - [Common Coaching Terms](/images/2018/04/common_coaching_2018_april.pdf) (April 2018)
 - [Membership Form 2025](/images/2024/11/Membership_Form_2025.pdf)
 - [Privacy Notice 2018](/images/2018/04/privacy-notice-2018.pdf)
