@@ -13,7 +13,7 @@ Broadly speaking there are three common ways of hosting small websites
   - Security can be a concern
   - Starts from ~£6 a month
 - Statically generated sites
-  - The website is simply a bunch of files
+  - Just a bunch of files
   - Not quite as user friendly to update... but a lot fewer moving parts
   - Starts from ~£0.50 a month
 
@@ -62,11 +62,11 @@ Moving from the start point on the far left
 
   These are the sources used to generate the website. They are composed of Markdown (.md) files and other associated media that get processed by a program called [Hugo](https://gohugo.io) to generate the HTML required for the website.
 
-  The nice thing about Markdown is that it's a very lightweight language and so allows you to focus on the content rather than it's presentation. Hugo takes the Markdown and does all the time consuming an annoying stuff for you, for example
+  The nice thing about Markdown is that it's a very lightweight language and so allows you to focus on the content rather than it's presentation. Hugo takes the Markdown and does all the time consuming and annoying stuff for you, for example
 
   - Creating html that works correctly on mobile and desktop
   - Applying themes to make content look nice
-  - Automatically organising content by date
+  - Automatically organising content by date and time
   - Creating sitemaps and other structures required by search engines
 
 - Version control (optional)
@@ -75,13 +75,13 @@ Moving from the start point on the far left
 
   Version control systems allow you to register files and formally record how things change over time. Most importantly they are an excellent way of performing backups- if I were to accidentally delete a page then I can easily restore it from the Version control system.
 
-  There are variety of Version control systems out there but the trend has generally been towards `git`. Microsoft provides a free git hosting service called [github](https://github.com) which is what we currently use.
+  There are variety of Version control systems out there but the trend has generally been towards `git`. Microsoft provides a free git hosting service called github which is what we currently use.
 
-  If my laptop were to break then all the website sources are safely backed up on the [github repository](https://github.com/freewill7/stroudmasters).
+  If my laptop were to break then all the website sources are safely backed up on our [github repository](https://github.com/freewill7/stroudmasters).
 
 - Hugo Generator
 
-  As mentioned this is a program that changes the website sources into html. More on this program later.
+  Previously mentioned- this is a program that changes the website sources into html. More on this later.
 
 - Generated website
 
@@ -93,7 +93,7 @@ Moving from the start point on the far left
 
   This is a file storage service provided my Amazon. It can be configured in lots of different ways... but we keep things simple and have everything read-only (so only we can modify things).
   
-  The `Generated website` is uploaded to S3.
+  Our `Generated website` is stored in S3.
 
 - Cloudfront
 
@@ -101,9 +101,9 @@ Moving from the start point on the far left
 
   Fetching an individual object directly from S3 means Amazon has to fully retrieve the object (in case it's been modified since the last time it was read). And this is reflected in the cost ($0.0004	per 1000 requests).
 
-  However by using a cache, and alerting Amazon when an object has changed, this allows them to better optimise their computer resources. And in exchange we receive 10,000,000 free requests every month before prices return to normal S3 pricing.
+  However by using a cache, and alerting Amazon when an object has changed, this allows them to better optimise their computing resources. And in exchange we receive 10,000,000 free requests every month before prices return to normal S3 pricing.
   
-  In practice this probably a negligible saving for us but does protect us if we somehow go viral (or are the target of a DDOS attack).
+  In practice this is probably a negligible saving but it's good practice and protects us if we somehow go viral. (We also have budget caps to ensure no surprises when it comes to billing).
 
 - Route 53
 
@@ -113,18 +113,18 @@ Moving from the start point on the far left
 
 - Visitor
 
-  And finally we have a website visitor.
+  Finally we have a website visitor.
 
-  When they click a link or type stroudmasters.org into their browser then the Route53 service is used to tell the browser where to go.
-
-  The browser is directed to our Cloudfront service and downloads a cache of our Generated website and happily browses away.
+  When a link is clicked or someone types stroudmasters.org into their browser then the Route53 service redirects them to our Cloudfront service.
+  
+  Cloudfront then serves a cached version of our website and everyone is happy.
 
 ## Generating the website 
 
 ### Setting up hugo
-The only true requirement for building the website is `hugo` which has install instructions on their website [https://gohugo.io](https://gohugo.io). Ideally you should be able to install it through a package manager, worst case you can use a pre-built version (e.g. at [https://github.com/gohugoio/hugo/releases/tag/v0.138.0](https://github.com/gohugoio/hugo/releases/tag/v0.138.0) ).
+The only true requirement for building the website is **hugo** which has install instructions on their website [https://gohugo.io](https://gohugo.io). Ideally you should be able to install it through a package manager, or worst case use a pre-built version (e.g. at [https://github.com/gohugoio/hugo/releases/tag/v0.138.0](https://github.com/gohugoio/hugo/releases/tag/v0.138.0) ).
 
-With hugo installed, I can open the command line on my Mac and run
+With hugo installed, I can open the terminal on my Mac and run
 
 ```sh
 hugo version
@@ -136,7 +136,7 @@ And have the following output
 hugo v0.123.8-5fed9c591b694f314e5939548e11cc3dcb79a79c+extended darwin/arm64 BuildDate=2024-03-07T13:14:42Z VendorInfo=brew
 ```
 
-### Getting the website sources
+### Website sources
 
 The website sources can be found at [https://github.com/freewill7/stroudmasters](https://github.com/freewill7/stroudmasters).
 
@@ -181,7 +181,7 @@ This will compile the sources and set-up a local webserver to test the generated
 Web Server is available at http://localhost:1313/ (bind address 127.0.0.1) 
 ```
 
-Visting this address in a browser will give you a preview of the site.
+Visting this address in a browser will give you a preview of the site. You can stop the webserver by pressing `Ctrl-c` in your terminal
 
 ### Guide to the sources
 
@@ -205,13 +205,13 @@ Visting this address in a browser will give you a preview of the site.
 
 * layouts
 
-  A directory used by hugo- rarely/never has to be touched.
+  A directory used by hugo- rarely has to be touched.
 
 * static
   
   This is where static, binary resources such as images and documents are stored. These are organised into date based directories to help keep things manageable.
 
-  For example the new membership form might live in `images/2024/11/Membership_Form_2025.pdf`.
+  For example the new membership form lives in `images/2024/11/Membership_Form_2025.pdf` which reflects when it was uploaded.
 
 * themes
 
@@ -219,114 +219,129 @@ Visting this address in a browser will give you a preview of the site.
 
 * public
 
-  This is where hugo stores the generated website. This should never be modified directly.
+  This is where hugo will put the generated website. This should never be modified directly.
 
 ### Common tasks
 
-Here is my workflow for a number of common update tasks
+Here is my workflow for some common tasks
 
 #### Updating the membership form
 
 1. Rename the form so it doesn't contain spaces
 
-```sh
-mv Membership\ Form\ 2025.pdf Membership_Form_2025.pdf
-```
+    ```sh
+    mv Membership\ Form\ 2025.pdf Membership_Form_2025.pdf
+    ```
 
-2. Copy the membership form into the static resources directory and register into the version management system 
+2. Copy the membership form into the static resources directory 
 
-```sh
-cp ~/Downloads/Membership_Form_2025.pdf static/images/2024/11/
-git add static/images/2024/11/Membership_Form_2025.pdf
-```
+    ```sh
+    cp ~/Downloads/Membership_Form_2025.pdf static/images/2024/11/
+    ```
 
-3. Update the `about` section 
+3. (Optionally) register the file with the version management system
 
-```sh
-open content/about/_index.md
-```
+    ```sh
+    git add static/images/2024/11/Membership_Form_2025.pdf
+    ```
 
-```md
-- [Membership Form 2024](/images/2024/11/Membership_Form_2025.pdf)
-```
+4. Update the `about` section to point to the new form
 
-4. Test the changes
+    ```sh
+    open content/about/_index.md
+    ```
 
-```sh
-hugo serve
-```
+    ```md
+    - [Membership Form 2024](/images/2024/11/Membership_Form_2025.pdf)
+    ```
 
-5. Add the about change to version control
+5. Test the changes
 
-```sh
-git add content/about/_index.md
-```
+    ```sh
+    hugo serve
+    ```
 
-5. Commit the changes to version control
+    Browse to `http://localhost:1313` and click through to `About` and check that the new form can be accessed.
 
-```
-git commit
-```
+5. (Optionally) Add the changes to the about page to version control
+
+    ```sh
+    git add content/about/_index.md
+    ```
+
+5. (Optionally) Commit the changes to version control
+
+    ```
+    git commit
+    ```
 
 6. (Optionally) back up version control changes remotely
 
-```
-git push
-```
+    ```
+    git push
+    ```
+
+7. Publish to AWS
+
+    See the `Updating AWS copy of generated website` later in this document.
 
 #### Adding a news post
 
 1. Create a directory for the current month
 
-```sh
-mkdir content/posts/2024/11
-```
+    ```sh
+    mkdir content/posts/2024/11
+    ```
 
 2. Copy a previous entry or fill in a template
 
-```sh
-vim content/posts/2024/11/exciting_news.md
-```
+    ```sh
+    vim content/posts/2024/11/exciting_news.md
+    ```
 
-Example:
+    Example:
 
-```md
----
-title: "TODO TITLE"
-date: 2024-11-06T17:44:00+0000
-draft: false
----
-TODO CONTENT
-<!--more-->
-```
+    ```md
+    ---
+    title: "TODO TITLE"
+    date: 2024-11-06T17:44:00+0000
+    draft: false
+    ---
+    TODO CONTENT
+    <!--more-->
+    ```
 
-Note:
-- date is in GMT which might trip you up in the summer
-- the `<!--more>` tag prevents content from being clipped on the news page
+    Note:
+    - date is in GMT which might trip you up in the summer
+    - the `<!--more>` tag prevents content from being clipped on the news page
 
 3. Test the changes
 
-```
-hugo serve
-```
+    ```
+    hugo serve
+    ```
 
-4. Add the new entry to version control
+4. (Optionally) Add the new entry to version control
 
-```sh
-git add content/posts/2024/11/exciting_news.md
-```
+    ```sh
+    git add content/posts/2024/11/exciting_news.md
+    ```
 
-5. Commit the change to version control
+5. (Optionally) Commit the change to version control
 
-```sh
-git commit
-```
+    ```sh
+    git commit
+    ```
 
 6. (Optionally) back up version control changes remotely
 
-```
-git push
-```
+    ```
+    git push
+    ```
+
+7. Publish to AWS
+
+    See the `Updating AWS copy of generated website` later in this document.
 
 
 ### Updating AWS copy of generated website
@@ -335,7 +350,7 @@ To perform the synchronisation with AWS you'll need the [awscli](https://aws.ama
 
 - Generate website
 
-  This is different to the `hugo serve` command that we use to test changes
+  This is slightly different to the `hugo serve` command that we use to test changes
 
   ```sh
   hugo
@@ -350,6 +365,6 @@ To perform the synchronisation with AWS you'll need the [awscli](https://aws.ama
 - Refresh cloudfront cache
 
   ```
-  aws cloudfront create-invalidation --distribution-id [SECRET] --paths '/*'
+  python3 -m awsclient cloudfront create-invalidation --distribution-id [SECRET] --paths '/*'
   ```
 
