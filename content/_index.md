@@ -2,7 +2,7 @@
 ---
 Stroud Masters is a swimming club for anyone 18 or over in the Stroud area... although if you’re 18 or over and regularly in the area you’re just as welcome to join us too.
 
-![Jack Powis,Mark Partridge,Jessica Wooddisse,Mark Barrett](/images/2022/04/millfield_2022.jpg)
+![Some of Stroud Masters](/images/2024/11/masters_session.jpg)
 
 Today’s club formed in 2006, but we can trace our roots back to at least 1905 (see our [history](/about/history) page).
 
