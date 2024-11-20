@@ -12,7 +12,7 @@ Womens Overall
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Jessica Wooddisse|40.53|Millfield|Inter County Relays|19-Nov-17|
+|50m|Hilary Adria|37.69|Millfield|Inter County Relays|10-Nov-24|
 |100m|Emma Gardner|1.22.71|Horfield|G&S County Champs|11-Sept-11|
 |200m|Emma Gardner|2.57.55|Horfield|G&S County Champs|11-Sept-11|
 
@@ -76,7 +76,7 @@ Womens 35-39
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Jessica Wooddisse|41.75|Weston|Inter County Relays|16-Nov-14|
+|50m|Hilary Adria|37.69|Millfield|Inter County Relays|10-Nov-24|
 |100m|Jessica Wooddisse|1.30.76|Shrewsbury|Open Meet|05-Jan-13|
 |200m|Jessica Wooddisse|3.03.01|Horfield|G&S County Champs|14-Sep-14|
 

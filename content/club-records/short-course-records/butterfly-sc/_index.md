@@ -76,7 +76,7 @@ Womens 35-39
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Jessica Wooddisse|33.58|Weston|Inter County Relays|16-Nov-14|
+|50m|Hilary Adria|33.25|Millfield|Inter County Relays|10-Nov-24|
 |100m|Jessica Wooddisse|1.12.10|Millfield|Royal Navy Meet|30-Mar-14|
 |200m|Jessica Wooddisse|2.39.53|Bracknell|Open Meet|03-Mar-12|
 

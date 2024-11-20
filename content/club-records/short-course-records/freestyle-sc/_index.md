@@ -17,7 +17,7 @@ Womens Overall
 
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Elaine Lewis|30.23|Horfield|Inter County Relays|20-Nov-11|
+|50m|Hilary Adria|29.92|Millfield|Inter County Relays|10-Nov-24|
 |100m|Jessica Wooddisse|1.05.31|Gloucester|Open Meet|23-Apr-17|
 |200m|Jessica Wooddisse|2.17.52|Gloucester|Open Meet|08-May-16|
 |400m|Jessica Wooddisse|4.44.34|Gloucester|Open Meet|15-Apr-12|
@@ -112,7 +112,7 @@ Womens 35-39
 ---
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Jessica Wooddisse|32.04|Bracknell|Open Meet|02-Mar-13|
+|50m|Hilary Adria|29.92|Millfield|Inter County Relays|10-Nov-24|
 |100m|Jessica Wooddisse|1.06.59|Horfield|G&S County Champs|14-Sep-14|
 |200m|Jessica Wooddisse|2.17.86|Gloucester|Open Meet|13-Apr-14|
 |400m|Jessica Wooddisse|4.44.15|Sheffield|ASA Nationals|24-Oct-14|
@@ -220,7 +220,7 @@ Mens 60-64
 
 |Distance|Swimmer|Time|Location|Competition|Date|
 |---|---|---|---|---|---|
-|50m|Mark Partridge|29.69|Millfield|Royal Navy|18-Feb-24|
+|50m|Sean Kinsey|28.74|Millfield|Inter County Relays|10-Nov-24|
 |100m|Mark Partridge|1.10.03|Millfield|Royal Navy Meet|26-Feb-23|
 |200m|Sean Kinsey|2.18.02|Gloucester|Open Meet|12-May-24|
 |400m|Sean Kinsey|4.59.11|Gloucester|Open Meet|12-May-24|
