@@ -21,7 +21,7 @@ We originally used a CMS (Wordpress) but the ongoing maintenance was a bit of a 
 
 Experimenting with a statically generated site was pretty encouraging- there was a  a reasonable workflow for making updates, maintenance tasks were low and the pricing was very competitive.
 
-However this is coming from someone who does computer programming for a living. Other factors may be important for future maintainers of the site.
+However this is coming from someone with a computer science background. Other factors may be important for future maintainers of the site.
 
 ## Overview
 
@@ -71,9 +71,9 @@ Moving from the start point on the far left
 
 - Version control (optional)
 
-  The general concensus in computer science is that text based sources are best managed through version control systems.
+  The sources for the site are stored in a Version control system.
 
-  Version control systems allow you to register files and formally record how things change over time. Most importantly they are an excellent way of performing backups- if I were to accidentally delete a page then I can easily restore it from the Version control system.
+  Version control systems allow you to register files and formally record how things change over time. Most importantly they are an excellent way of performing backups- an accidental deletion of a page can be easily restored from the Version control system.
 
   There are variety of Version control systems out there but the trend has generally been towards `git`. Microsoft provides a free git hosting service called github which is what we currently use.
 
@@ -220,6 +220,12 @@ Visting this address in a browser will give you a preview of the site. You can s
 * public
 
   This is where hugo will put the generated website. This should never be modified directly.
+
+### Modifying the sources
+
+Due to the sources being text files there are lots of options for modifying them- from something as simple as Notepad to more sophisticated options such as [vscode](https://code.visualstudio.com).
+
+I'd recommend looking at into the vscode option. It provides a simple UI and has lots of tools to help with the job (e.g. git integration and markdown previews).
 
 ### Common tasks
 
