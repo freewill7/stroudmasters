@@ -16,7 +16,7 @@ As of 4th September 2024, times of sessions are:
 |Sunday|07:30-09:00|Stratford Park Leisure Centre, Stroud|
 
 Access:
-- Stratford Park is easily accessible for all. Find out more [here](https://everyoneactive.com/centre/stratford-park-leisure-centre).
+- Stratford Park is easily accessible for all. Find out more [here](https://myactivelifestyles.co.uk/centres/active-lifestyles-stroud/).
 - Archway School Pool has obstacles that may mean access is more difficult... but please do speak to use if this may be the case and we'll look to find a solution.
 
 During holiday periods sessions may be cancelled or timings changed. Members will be informed by e-mail and reminders posted on the Club Website. It is important that Club members provide an up to date email address to ensure they receive the latest news and information from the Club.
