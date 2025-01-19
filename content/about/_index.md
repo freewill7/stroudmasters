@@ -12,7 +12,13 @@ Welcome to Stroud Masters.  We’re a friendly, open, and inclusive club.
 ## Swimming in Stroud
 We welcome everyone, whether you swim for fitness or competition, and whether that’s in the pool (most of the time), lake or sea.  We don’t just swim either, we are a social bunch too.
 
-All we ask is that you are at least 18yrs of age and can swim 100 metres continuously and unaided.  Our pools are 20 and 25 metres long.  If you’d like to join us but you don’t feel you can’t quite swim 100m please still speak to us as we’ve aquatic friends far and wide who may be able to help. Oh, and all you need is something to wear in the pool and a pair of goggles. 
+We simply ask that you are at least 18yrs of age and can achieve the following standard (typical of normal training session):
+
+- 8 * 100 metres frontcrawl on 3.5 minute intervals
+  - The 3.5 minute interval should include the 100m swim and associated recovery time (e.g. 2 minutes 45 seconds swimming, 45 seconds recovery)
+  - The 3.5 minute interval should be repeatable for a total of 8 intervals
+
+Our pools are 20 and 25 metres long.  If you’d like to join us but are unable to meet our minimum standard, please still speak to us as we’ve aquatic friends far and wide who may be able to help. Oh, and all you need is something to wear in the pool and a pair of goggles. 
 
 If you’ve a disability – and we understand not all disabilities are visible – where we can we are happy to adapt our sessions or slip you in with swimmers who swim at your pace.  To help up help you, please discuss any additional needs you may have when making contact.  
 
