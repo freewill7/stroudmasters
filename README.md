@@ -62,7 +62,7 @@ Moving from the start point on the far left
 
   These are the sources used to generate the website. They are composed of Markdown (.md) files and other associated media that get processed by a program called [Hugo](https://gohugo.io) to generate the HTML required for the website.
 
-  The nice thing about Markdown is that it's a very lightweight language and so allows you to focus on the content rather than it's presentation. Hugo takes the Markdown and does all the time consuming and annoying stuff for you, for example
+  The nice thing about Markdown is that it's a lightweight language and so allows us to focus on the content rather than it's presentation. Hugo takes the Markdown and does all the time consuming and annoying stuff for us, for example
 
   - Creating html that works correctly on mobile and desktop
   - Applying themes to make content look nice
@@ -73,7 +73,7 @@ Moving from the start point on the far left
 
   The sources for the site are stored in a Version control system.
 
-  Version control systems allow you to register files and formally record how things change over time. Most importantly they are an excellent way of performing backups- an accidental deletion of a page can be easily restored from the Version control system.
+  Version control systems allow us to register files and formally record how things change over time. Most importantly they are an excellent way of performing backups- an accidental deletion of a page can be easily restored from the Version control system.
 
   There are variety of Version control systems out there but the trend has generally been towards `git`. Microsoft provides a free git hosting service called github which is what we currently use.
 
@@ -85,9 +85,9 @@ Moving from the start point on the far left
 
 - Generated website
 
-  We now have a generated website but this needs to publicly available in order for people to see it (i.e. "hosted). This is where we use Amazon Web Services (AWS).
+  We now have a generated website (the "public" directory) but this needs to publicly available in order for people to see it (i.e. "hosted). This is where we use Amazon Web Services (AWS).
 
-  There are lots of providers that can be used for hosting websites (Microsoft Azure, Google Cloud...) but I went for AWS as it's well established and reasonably priced.
+  There are lots of providers that can be used for hosting websites (Microsoft Azure, Google Cloud...) but we went for AWS as it's well established and reasonably priced.
 
 - S3 Storage
 
@@ -191,7 +191,7 @@ Visting this address in a browser will give you a preview of the site. You can s
   - Theme
   - Menu entries
   
-  I rarely have to change these
+  We rarely have to change these
 
 * content
 
