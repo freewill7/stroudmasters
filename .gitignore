@@ -2,3 +2,4 @@ public/
 .hugo_build.lock
 *.swp
 sync.sh
+.DS_Store

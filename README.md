@@ -19,7 +19,7 @@ Broadly speaking there are three common ways of hosting small websites
 
 We originally used a CMS (Wordpress) but the ongoing maintenance was a bit of a pain, and keeping costs low usually involved changing hosting providers every year.
 
-Experimenting with a statically generated site was pretty encouraging- there was a  a reasonable workflow for making updates, maintenance tasks were low and the pricing was very competitive.
+Experimenting with a statically generated site was pretty encouraging- there was a reasonable workflow for making updates, maintenance tasks were low and the pricing was very competitive.
 
 However this is coming from someone with a computer science background. Other factors may be important for future maintainers of the site.
 
