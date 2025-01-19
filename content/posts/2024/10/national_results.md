@@ -3,11 +3,7 @@ title: "National Championships Results"
 date: 2024-10-29T17:59:00+0000
 draft: false
 ---
-Some great results from Mark representing Stroud at Sheffield this weekend in the Swim England National Championships
-
-![Mark](/images/2024/10/nationals_mark_2024.jpeg) 
-
-*Mark*
+Some great results from Mark representing Stroud at Sheffield this weekend in the Swim England National Championships.
 
 There were over 1600 competitors taking part ranging in ages from 18 to mid 80s
 
