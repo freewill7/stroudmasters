@@ -29,7 +29,7 @@ We have Tuesday evening and Sunday morning sessions that are facilitated on pool
 
 Even though we’ve only four lanes, there’s a lane to suit everyone.
 
-See [Training](/training) for our training times and venues. And [Coaches](/about/coaches) for our coaches and facilitators.
+See [Training](/training) for our training times and venues. And [Coaches](/about/coaches) for our session leaders.
 
 ## Your fees
 Annual membership of the club in 2025 is £50.  Our membership form can be found in the Documents section.  The membership fee is made up of Swim England and club fees.  We hate to exclude anyone, so please do speak to us if you’re worried about your financial situation and you really want to get wet and join us but feel you can’t.   
