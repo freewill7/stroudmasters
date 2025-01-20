@@ -1,10 +1,10 @@
-Volunteer Coaches
+Volunteer Session Leaders
 ---
-Tuesday evening is coached by 
+Tuesday evening is lead by 
 
 - Alice Pinney
 
-Sunday sessions are coached by members
+Sunday sessions are lead by members
 
 - Jessica Wooddisse
 - Mark Partridge
