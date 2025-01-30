@@ -1,8 +1,5 @@
 Volunteer Session Leaders
 ---
-Tuesday evening is lead by 
-
-- Alice Pinney
 
 Sunday sessions are lead by members
 
