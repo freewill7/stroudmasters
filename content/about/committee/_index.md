@@ -10,7 +10,7 @@ If you have any information for this club website or discover any issues when us
 |---|---|
 | Richard Searle | [Chair](/images/2014/12/rolechair.pdf) |
 | Mark Partridge | [Mens Team Captain](/images/2014/12/rolecaptain.pdf), [Treasurer](/images/2014/12/roletreas.pdf) |
-| Jessica Woodisse | [Womens Team Captain](/images/2014/12/rolecaptain.pdf), [Welfare Officer](/images/2014/12/rolewelfoff.pdf), [Secretary](/images/2014/12/rolesec.pdf) |
+| Jessica Partridge | [Womens Team Captain](/images/2014/12/rolecaptain.pdf), [Welfare Officer](/images/2014/12/rolewelfoff.pdf), [Secretary](/images/2014/12/rolesec.pdf) |
 | Lorraine Savager | [Membership Secretary](/images/2014/12/rolemembsec.pdf) |
 | Nick Bishop | Committee Member |
 | Andrew Lelliot | Committee Member |
