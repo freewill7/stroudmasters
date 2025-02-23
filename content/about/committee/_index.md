@@ -8,14 +8,14 @@ If you have any information for this club website or discover any issues when us
 
 | Member | Role |
 |---|---|
-| Richard Searle | [Chair](/images/2014/12/rolechair.pdf) |
+| Richard Percival | [Chair](/images/2014/12/rolechair.pdf) |
 | Mark Partridge | [Mens Team Captain](/images/2014/12/rolecaptain.pdf), [Treasurer](/images/2014/12/roletreas.pdf) |
 | Jessica Partridge | [Womens Team Captain](/images/2014/12/rolecaptain.pdf), [Welfare Officer](/images/2014/12/rolewelfoff.pdf), [Secretary](/images/2014/12/rolesec.pdf) |
 | Lorraine Savager | [Membership Secretary](/images/2014/12/rolemembsec.pdf) |
-| Nick Bishop | Committee Member |
-| Andrew Lelliot | Committee Member |
-| Richard Percival | Committee Member |
-| Mike Joffe | Committee Member |
+| Nick Bishop | Elected Committee Member |
+| Mike Joffe | Elected Committee Member |
+| Jane Romero | Co-opted Committee Member |
+| Janet Wood | Co-opted Committee Member |
 
 Role descriptions
 ---
